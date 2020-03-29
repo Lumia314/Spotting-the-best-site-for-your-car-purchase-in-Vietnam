@@ -1,0 +1,3 @@
+# Spotting the best site for your car purchase in Vietnam
+## Motivation
+Vietnam stable economic growth has brought along a new group willing to spend more on transport. The vehicle market in Vietnam ended 2016 with an impressive sales of 286,845 units and since then exprerience a steady growth to 293,563 units in 2019. More and more people are considering owning a car for private use or having a side job such as a part time driver. Along with that trend, there has been various sites offering car sales for people who prefer shopping with ease at the comfort of their home. I make this project so you can **easily compare the price of different brands between these sites**. 
