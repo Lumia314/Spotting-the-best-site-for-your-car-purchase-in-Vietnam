@@ -1,0 +1,1171 @@
+brand,generation,version,productYear,condition,automatic,carType,gasoline,noSeats,price,date,originAssembled
+suzuki,ertiga,glx,2019,True,True,minivan,True,6-7,555000000,18/03/2020,False
+mercedes benz,c300,c300 amg plus,2013,False,True,sedan,True,4-6,859000000,18/03/2020,True
+kia,carens,ex 2.0mt,2015,False,False,minivan,True,6-7,348000000,18/03/2020,True
+hyundai,santa_fe,4wd 2.4at,2018,False,True,suv,True,6-7,958000000,18/03/2020,True
+mazda,2,1.5at,2018,False,True,sedan,True,4-6,508000000,18/03/2020,False
+toyota,land_cruiser,2.7at,2016,False,True,suv,True,6-7,1756000000,18/03/2020,False
+kia,cerato,1.6mt,2019,False,False,sedan,True,4-6,548000000,18/03/2020,True
+mercedes benz,c200,2019,2019,False,True,sedan,True,4-6,1429000000,18/03/2020,True
+mercedes benz,e200,e200,2019,False,True,sedan,True,4-6,1789000000,18/03/2020,False
+mazda,mazda3,1.5 deluxe,2019,True,True,sedan,True,4-6,699000000,18/03/2020,True
+mazda,cx_8,mazda cx-8 2.5 2020,2020,True,True,suv,True,6-7,1149000000,18/03/2020,True
+toyota,camry,2.0e,2015,False,True,sedan,True,4-6,730000000,18/03/2020,True
+toyota,camry,2.4g,2008,False,True,sedan,True,4-6,470000000,18/03/2020,True
+toyota,fortuner,2.7v 4wd,2012,False,True,suv,True,8-10,590000000,18/03/2020,True
+toyota,innova,2.0e,2018,False,False,minivan,True,8-10,635000000,18/03/2020,True
+toyota,avanza,1.5g,2018,False,True,minivan,True,6-7,530000000,18/03/2020,True
+toyota,vios,1.5g,2018,False,True,sedan,True,4-6,520000000,18/03/2020,True
+toyota,fortuner,2.4g,2017,False,False,suv,False,8-10,830000000,18/03/2020,False
+toyota,innova,2.0v,2016,False,True,minivan,True,6-7,670000000,18/03/2020,True
+mazda,2,1.5at,2018,False,True,sedan,True,4-6,486000000,18/03/2020,True
+thaco,ollin,kia đông lạnh,2019,True,False,pickup,False,3,387000000,18/03/2020,False
+thaco,towner,máy xăng 2020,2020,True,False,van,True,2,216000000,18/03/2020,True
+vinfast,fadil,base,2020,True,True,hatchback,True,4-6,415000000,18/03/2020,True
+chevrolet,other_pickups,colorado 2.5at,2019,False,True,pickup,False,4-6,594000000,18/03/2020,False
+hino,300,new,2020,True,False,sedan,False,3,499000000,18/03/2020,False
+mercedes benz,glc200,glc200 4matic,2020,False,True,suv,True,4-6,2030000000,18/03/2020,True
+toyota,vios,2018,2018,False,True,sedan,True,4-6,480000000,18/03/2020,True
+toyota,vios,1.5g,2019,False,True,sedan,True,4-6,535000000,18/03/2020,True
+mercedes benz,s450,luxury,2020,False,True,sedan,True,4-6,4950000000,18/03/2020,True
+ford,ranger,xlt,2019,True,False,pickup,False,4-6,654000000,18/03/2020,False
+ford,everest,ambiente,2019,True,True,suv,False,6-7,899000000,18/03/2020,False
+ford,ranger,xls,2019,True,True,pickup,False,4-6,625000000,18/03/2020,False
+thaco,towner,towner990,2020,True,False,pickup,True,2,216000000,18/03/2020,True
+kia,k200,k200,2020,True,False,pickup,False,3,335000000,18/03/2020,True
+toyota,rush,rush,2019,True,True,suv,True,6-7,668000000,18/03/2020,False
+kia,morning,luxury,2020,True,True,van,True,4-6,388000000,18/03/2020,True
+honda,city,top,2020,True,True,sedan,True,4-6,599000000,18/03/2020,True
+ford,tourneo,2.0 ecoboost,2020,True,True,minivan,True,6-7,920000000,18/03/2020,True
+hino,500,mới nhất,2020,True,False,hybrid,True,3,1000000000,18/03/2020,True
+toyota,camry,camry 2.0 g,2020,True,True,sedan,True,4-6,1029000000,18/03/2020,False
+hyundai,accent,đặc biệt,2020,True,True,sedan,True,4-6,415000000,18/03/2020,True
+mazda,mazda6,deluxe,2019,True,True,sedan,True,4-6,819000000,18/03/2020,True
+toyota,fortuner,2.4mt diesel,2020,True,True,suv,False,6-7,1033000000,18/03/2020,True
+toyota,vios,1.5g,2020,True,False,sedan,True,4-6,570000000,18/03/2020,True
+toyota,wigo,1.5g,2020,True,True,sedan,True,4-6,405000000,18/03/2020,True
+toyota,vios,1.5g,2020,True,True,sedan,True,4-6,590000000,18/03/2020,True
+toyota,wigo,1.2 at,2020,True,True,sedan,True,4-6,405000000,18/03/2020,True
+toyota,wigo,1.2at,2020,True,True,hatchback,True,4-6,405000000,18/03/2020,False
+toyota,fortuner,fxs,2019,True,True,suv,True,6-7,1199000000,18/03/2020,True
+hyundai,universe,modern,2020,True,False,van,False,29+,3150000000,18/03/2020,True
+thaco,ollin,ollin 350,2020,True,False,convertible,False,3,354000000,18/03/2020,True
+hyundai,universe,premium,2020,True,False,van,False,2,3150000000,18/03/2020,True
+suzuki,xl_7_1,2020,2020,True,True,suv,True,6-7,610000000,18/03/2020,False
+kia,sedona,sedona dat luxury,2020,True,True,minivan,False,6-7,1099000000,18/03/2020,True
+mercedes benz,c300,amg,2019,False,True,sedan,True,4-6,1850000000,18/03/2020,True
+kia,sedona,xăng,2020,True,True,minivan,True,6-7,1429000000,18/03/2020,True
+kia,sedona,dầu,2019,True,True,minivan,False,6-7,1189000000,18/03/2020,True
+hyundai,i10,full,2020,True,True,hatchback,True,4-6,380000000,18/03/2020,True
+toyota,yaris,1.5e,2016,False,True,hatchback,True,4-6,490000000,18/03/2020,False
+mazda,cx_5,2.5,2017,False,True,hatchback,True,4-6,790000000,18/03/2020,True
+toyota,camry,2.5q,2018,False,True,sedan,True,4-6,1090000000,18/03/2020,True
+toyota,fortuner,2.4g,2017,False,False,suv,False,8-10,880000000,18/03/2020,False
+toyota,innova,2.0g,2019,False,True,minivan,True,8-10,760000000,18/03/2020,True
+honda,city,1.5l,2017,False,True,sedan,True,4-6,470000000,18/03/2020,True
+hyundai,avante,1.6l,2014,False,False,sedan,True,4-6,340000000,18/03/2020,True
+toyota,vios,1.5e,2017,False,True,sedan,True,4-6,475000000,18/03/2020,True
+toyota,fortuner,2.4g,2017,False,False,suv,False,6-7,880000000,18/03/2020,False
+toyota,fortuner,2.7v,2017,False,True,suv,True,8-10,975000000,18/03/2020,False
+toyota,fortuner,2.7v 4wd,2012,False,True,suv,True,8-10,570000000,18/03/2020,True
+thaco,towner,kia k200,2019,True,False,pickup,False,3,335000000,18/03/2020,True
+thaco,towner,2019,2019,True,False,pickup,False,3,335000000,18/03/2020,False
+thaco,town,kia k200,2019,True,False,pickup,False,3,335000000,18/03/2020,False
+thaco,towner,800,2019,True,False,pickup,True,2,158500000,18/03/2020,False
+thaco,town,2019,2019,True,False,pickup,False,3,387000000,18/03/2020,True
+thaco,towner,2019,2019,True,False,pickup,True,2,216000000,18/03/2020,False
+thaco,town,2019,2019,True,False,pickup,False,3,529000000,18/03/2020,False
+thaco,towner,2020,2020,True,False,pickup,True,2,216000000,18/03/2020,True
+thaco,town,towner990,2019,True,True,pickup,True,2,216000000,18/03/2020,True
+kia,rondo,rondo gmt,2020,True,False,suv,True,6-7,580000000,18/03/2020,True
+toyota,innova,g,2020,True,True,suv,True,6-7,787000000,18/03/2020,True
+toyota,wigo,1.2 at,2020,True,True,hatchback,True,4-6,390000000,18/03/2020,False
+mazda,3_sedan,3 1.5at,2017,False,True,sedan,True,4-6,610000000,17/03/2020,False
+kia,carens,2.0at,2011,False,True,minivan,True,6-7,328000000,17/03/2020,True
+hyundai,solati,solati univer,2019,True,False,van,False,16,970000000,17/03/2020,True
+hyundai,santa_fe,premium cao cấp,2020,True,True,suv,False,6-7,1170000000,17/03/2020,True
+honda,cr_v,2.4g,2010,False,True,suv,True,4-6,498000000,17/03/2020,True
+hyundai,solati,limited,2019,True,False,minivan,False,16,945000000,17/03/2020,True
+kia,sedona,luxury,2020,True,True,minivan,False,6-7,1189000000,17/03/2020,True
+kia,cerato,at luxury,2019,True,True,sedan,True,4-6,675000000,17/03/2020,True
+hyundai,solati,universe,2020,True,False,minivan,False,16,1025000000,17/03/2020,True
+toyota,camry,q,2014,False,True,suv,True,4-6,790000000,17/03/2020,True
+kia,morning,standard,2020,True,True,hatchback,True,4-6,329000000,17/03/2020,True
+mercedes benz,v250,2016,2016,False,True,minivan,True,6-7,1769000000,17/03/2020,False
+peugeot,5008,2020,2020,True,True,suv,True,6-7,1349000000,17/03/2020,False
+hyundai,hd,hd1000,2020,True,False,pickup,False,3,1980000000,17/03/2020,True
+hyundai,county,cửa xoay,2020,True,False,van,False,24-29,1340000000,17/03/2020,True
+kia,k250,thaco kia k250,2020,True,False,pickup,False,3,387000000,17/03/2020,True
+mazda,cx_8,2.5 premium,2019,True,True,suv,True,6-7,1249000000,17/03/2020,True
+volkswagen,scirocco,2017,2017,True,True,hatchback,True,4-6,1399000000,17/03/2020,False
+hyundai,solati,universe,2019,True,False,van,False,16,1045000000,17/03/2020,True
+thaco,towner,towner 800,2019,True,False,wagon,True,2,158000000,17/03/2020,True
+kia,frontier,k250,2019,True,False,pickup,False,3,387000000,17/03/2020,False
+ford,everest,titanium,2019,True,True,suv,True,6-7,1390000000,17/03/2020,False
+mazda,cx_5,2.5at,2019,False,True,suv,True,4-6,998000000,17/03/2020,True
+hyundai,elantra,2.0at,2016,False,True,sedan,True,4-6,576000000,17/03/2020,True
+toyota,innova,2.0e,2012,False,False,minivan,True,8-10,410000000,17/03/2020,True
+toyota,corolla,1.8g,2018,False,True,sedan,True,4-6,710000000,17/03/2020,True
+toyota,innova,2.0e,2017,False,False,minivan,True,8-10,580000000,17/03/2020,True
+toyota,innova,e mt,2020,True,False,minivan,True,6-7,706000000,17/03/2020,True
+toyota,vios,e,2020,True,False,sedan,True,4-6,570000000,17/03/2020,True
+toyota,innova,g,2020,True,True,minivan,True,8-10,787000000,17/03/2020,True
+toyota,innova,e,2020,True,False,minivan,True,8-10,706000000,17/03/2020,True
+toyota,vios,470000000,2020,True,False,sedan,True,4-6,470000000,17/03/2020,True
+toyota,rush,s,2020,True,True,suv,True,6-7,668000000,17/03/2020,False
+toyota,hilux,2.4 4x2 at,2020,True,True,pickup,False,4-6,647000000,17/03/2020,False
+toyota,yaris,1.5g,2020,True,True,hatchback,True,4-6,635000000,17/03/2020,False
+toyota,fortuner,2.7v 4x2 at trd,2019,True,True,suv,True,6-7,1199000000,17/03/2020,True
+hyundai,new_mighty_n250sl,n250sl,2019,True,False,pickup,False,3,440000000,17/03/2020,True
+hyundai,accent,1.4 mt,2018,False,False,sedan,True,4-6,450000000,16/03/2020,True
+hyundai,accent,1.4at,2015,False,True,hatchback,True,4-6,438000000,16/03/2020,False
+toyota,fortuner,2.7at,2010,False,True,suv,True,6-7,466000000,16/03/2020,True
+hyundai,elantra,gls 2.0at,2016,False,True,sedan,True,4-6,586000000,16/03/2020,True
+hyundai,kona,turbo 1.6at,2018,False,True,suv,True,4-6,718000000,16/03/2020,True
+hyundai,tucson,4wd 2.0at,2011,False,True,suv,True,4-6,498000000,16/03/2020,False
+hyundai,tucson,2wd 2.0at,2017,False,True,suv,True,4-6,816000000,16/03/2020,True
+hyundai,starex,2.5mt,2015,False,False,minivan,False,8-10,728000000,16/03/2020,False
+honda,city,cvt 1.5at,2018,False,True,sedan,True,4-6,526000000,16/03/2020,True
+kia,cerato,1.6mt,2017,False,False,sedan,True,4-6,478000000,16/03/2020,True
+kia,cerato,1.6mt,2016,False,False,sedan,True,4-6,456000000,16/03/2020,True
+mitsubishi,xpander,1.5mt,2018,False,True,suv,True,6-7,548000000,16/03/2020,False
+mercedes benz,gla200,gla200,2019,False,True,suv,True,4-6,1620000000,16/03/2020,False
+bmw,320,xăng,2013,False,True,sedan,True,4-6,800000000,16/03/2020,False
+vinfast,lux-a-2-0,at cvt,2020,True,True,sedan,True,4-6,1129000000,16/03/2020,True
+peugeot,3008,3008 allure,2020,True,True,suv,True,6-7,1149000000,16/03/2020,True
+mercedes benz,c180,rwd,2020,True,True,sedan,True,4-6,1399000000,16/03/2020,True
+hyundai,new_mighty_110s,thùng bạt,2020,True,False,pickup,False,2,650000000,16/03/2020,True
+hyundai,santa_fe,2.4at 4wd,2016,False,True,suv,True,6-7,880000000,16/03/2020,True
+peugeot,traveller,traveller luxury,2019,True,True,van,False,6-7,1649000000,16/03/2020,True
+peugeot,5008,2020,2020,True,True,suv,True,6-7,1199000000,16/03/2020,True
+hyundai,new_mighty_n250sl,thùng composite,2020,True,False,pickup,False,3,470000000,16/03/2020,True
+peugeot,3008,2020,2020,True,True,suv,True,4-6,1099000000,16/03/2020,True
+lexus,lx,lx 570s,2020,True,True,suv,True,6-7,9199000000,16/03/2020,False
+lexus,gs_350,3.5,2012,False,True,sedan,True,4-6,1800000000,16/03/2020,False
+toyota,innova,2.0e,2018,False,False,minivan,True,8-10,660000000,16/03/2020,True
+toyota,innova,venturer,2020,True,True,minivan,True,8-10,819000000,16/03/2020,True
+kenbo,kenbo,2019,2019,True,True,van,True,4-6,243000000,16/03/2020,False
+vinfast,fadil,at cvt,2020,True,True,hatchback,True,4-6,414000000,16/03/2020,True
+mitsubishi,fuso_canter,canter 4.99,2019,True,False,pickup,False,3,597000000,16/03/2020,True
+kia,towner,towner990,2019,True,False,pickup,True,2,216000000,16/03/2020,True
+kia,k3000s,k250,2019,True,False,pickup,False,3,387000000,16/03/2020,True
+kia,soluto,mt,2020,True,True,sedan,True,4-6,399000000,16/03/2020,True
+kia,sedona,luxury,2020,True,True,minivan,False,6-7,1174000000,16/03/2020,True
+mazda,bt_50,standard,2019,True,False,pickup,False,4-6,580000000,16/03/2020,False
+mazda,3,all new 2020,2019,True,True,sedan,True,4-6,699000000,16/03/2020,True
+hyundai,new_mighty_n250,thùng ben,2020,True,False,pickup,False,3,540000000,16/03/2020,True
+hyundai,kona,đặc biệt,2020,True,True,suv,True,4-6,649000000,16/03/2020,True
+thaco,towner,k250,2020,True,False,pickup,False,3,385000000,16/03/2020,True
+thaco,town,k200,2020,True,False,pickup,False,3,333000000,16/03/2020,True
+hyundai,new_mighty_n250,thùng bạt,2020,True,False,pickup,False,3,440000000,16/03/2020,True
+hyundai,porter,thùng ben,2020,True,False,pickup,False,2,350000000,16/03/2020,True
+mitsubishi,canter_4_99,2019,2020,True,False,van,False,3,597000000,16/03/2020,True
+toyota,fortuner,2.5g,2016,False,False,suv,False,8-10,755000000,16/03/2020,True
+kia,k250,2020,2020,True,False,van,False,3,387000000,16/03/2020,True
+volkswagen,beetle,beetle dune,2018,True,True,hatchback,True,4-6,1499000000,16/03/2020,False
+thaco,towner,2020,2020,True,False,van,True,3,216000000,16/03/2020,True
+kia,soluto,at deluxe,2020,True,False,sedan,True,4-6,445000000,16/03/2020,True
+kia,cerato,premium 2.0,2020,True,True,sedan,True,4-6,675000000,16/03/2020,True
+kia,soluto,deluxe,2019,True,False,sedan,True,4-6,425000000,16/03/2020,True
+hyundai,new_mighty_110s,110s,2019,True,False,pickup,False,3,799000000,16/03/2020,True
+hyundai,tucson,đầy đủ phiên bản,2020,True,True,suv,True,4-6,843000000,15/03/2020,True
+kia,sedona,3.3 gat premium,2020,True,True,minivan,True,6-7,1429000000,15/03/2020,True
+mercedes benz,c200,2020,2020,True,True,sedan,True,4-6,1479000000,15/03/2020,True
+hyundai,accent,đầy đủ phiên bản,2020,True,True,sedan,True,4-6,469000000,15/03/2020,True
+kia,cerato,at deluxe,2020,True,True,sedan,True,4-6,589000000,15/03/2020,True
+mercedes benz,glc200,2019,2020,True,True,suv,True,4-6,1699000000,15/03/2020,True
+mercedes benz,s450,2019,2020,True,True,sedan,True,4-6,4249000000,15/03/2020,True
+mercedes benz,c300,amg,2020,True,True,sedan,True,4-6,1897000000,15/03/2020,True
+mercedes benz,glc300,amg,2020,True,True,suv,True,4-6,2289000000,15/03/2020,True
+mercedes benz,gle400_coupe,coupe,2020,True,True,coupe,True,4-6,4129000000,15/03/2020,False
+mercedes benz,e200,2020,2020,True,True,sedan,True,4-6,2130000000,15/03/2020,True
+mercedes benz,e200,luxury,2020,True,True,sedan,True,4-6,2130000000,15/03/2020,True
+toyota,innova,2.0e,2020,True,False,suv,True,8-10,771000000,15/03/2020,True
+mercedes benz,gls500,2020,2020,True,True,suv,True,6-7,7829000000,15/03/2020,False
+mercedes benz,s450,2020,2020,True,True,sedan,True,4-6,4249000000,15/03/2020,True
+mercedes benz,gls400,2020,2020,True,True,suv,True,6-7,4529000000,15/03/2020,False
+mercedes benz,glc300,coupe,2020,True,True,coupe,True,4-6,2899000000,15/03/2020,False
+mercedes benz,c250,exclusive,2017,False,True,sedan,True,4-6,1419000000,15/03/2020,True
+toyota,yaris,1.5g,2020,True,True,sedan,True,4-6,650000000,15/03/2020,False
+toyota,avanza,1.3,2020,True,True,sedan,True,4-6,612000000,15/03/2020,False
+ford,ranger,xls at,2020,True,True,pickup,False,4-6,620000000,15/03/2020,True
+ford,ecosport,limited,2020,True,True,suv,True,4-6,510000000,14/03/2020,True
+toyota,fortuner,sportivo 2.7 at 4×2,2016,False,True,suv,True,8-10,755000000,14/03/2020,True
+toyota,innova,2.0e,2014,False,False,minivan,True,8-10,480000000,14/03/2020,True
+nissan,navara,el i-vi,2019,True,True,pickup,False,4-6,630000000,14/03/2020,False
+mercedes benz,s450,s450 luxury,2017,False,True,sedan,True,4-6,3579000000,14/03/2020,True
+mercedes benz,c200,c200,2019,False,True,sedan,True,4-6,1399000000,14/03/2020,True
+hyundai,porter,thùng kín,2020,True,False,pickup,False,2,350000000,14/03/2020,True
+hyundai,porter,thùng composite,2020,True,False,pickup,False,2,350000000,14/03/2020,True
+toyota,vios,1.5cvt,2016,False,True,sedan,True,4-6,435000000,14/03/2020,False
+bmw,x7,xdriver 40i,2019,False,True,suv,True,6-7,7150000000,14/03/2020,False
+land_rover,range_rover,sv autobiography 3.0,2020,True,True,suv,True,4-6,13800000000,14/03/2020,False
+toyota,sienna,limited 1 cầu,2020,True,True,minivan,True,6-7,4380000000,14/03/2020,False
+toyota,sienna,limited 3.5,2020,True,True,minivan,True,6-7,4380000000,14/03/2020,False
+thaco,forland,9 tấn ga cơ,2017,True,False,offroad,False,3,559000000,14/03/2020,True
+ford,ranger-raptor,raptor,2020,True,True,pickup,False,4-6,1158000000,14/03/2020,False
+ford,transit,mid-svp-luxury,2020,True,False,van,False,16,700000000,14/03/2020,True
+ford,explorer,limited,2019,True,True,suv,True,6-7,1944000000,14/03/2020,False
+ford,ecosport,tatanium_trend_ambi,2020,True,True,suv,True,4-6,490000000,14/03/2020,True
+thaco,forland,xe ben 9 tấn ga cơ,2017,True,False,pickup,False,3,565000000,14/03/2020,True
+kia,k250,xe tải kia,2019,True,False,offroad,False,3,335000000,14/03/2020,False
+toyota,fortuner,"2.7v , 4wd",2010,False,True,convertible,True,8-10,490000000,14/03/2020,True
+toyota,camry,2.5q,2018,False,True,sedan,True,4-6,1070000000,14/03/2020,True
+toyota,venza,2.7l,2010,False,True,suv,True,4-6,680000000,14/03/2020,False
+toyota,innova,2.0e,2015,False,False,suv,True,8-10,520000000,14/03/2020,True
+toyota,yaris,1.3,2016,False,True,sedan,True,4-6,495000000,14/03/2020,False
+toyota,fortuner,2.7v,2011,False,True,suv,True,6-7,530000000,14/03/2020,True
+toyota,venza,2.7l,2009,False,True,suv,True,4-6,720000000,14/03/2020,False
+toyota,vios,1.5e,2019,False,False,sedan,True,4-6,470000000,14/03/2020,True
+toyota,innova,2.0e,2016,False,False,suv,True,8-10,590000000,14/03/2020,True
+toyota,corolla_altis,1.8g,2018,False,True,sedan,True,4-6,710000000,14/03/2020,True
+toyota,innova,2.0v,2015,False,True,minivan,True,6-7,570000000,14/03/2020,True
+ford,ecosport,titanium,2019,True,True,suv,True,4-6,489000000,13/03/2020,True
+honda,city,sedan,2020,True,True,sedan,True,4-6,529000000,13/03/2020,True
+toyota,innova,2.0e,2018,False,False,minivan,True,8-10,630000000,13/03/2020,True
+volkswagen,tiguan,tiêu chuẩn,2018,True,True,suv,True,6-7,1749000000,13/03/2020,False
+volkswagen,tiguan,allsplace,2019,True,True,suv,True,6-7,1749000000,13/03/2020,False
+volkswagen,passat,bluemotion,2019,True,True,sedan,True,4-6,1480000000,13/03/2020,False
+toyota,fortuner,g,2016,False,False,suv,False,6-7,880000000,13/03/2020,False
+volkswagen,passat,comfort,2018,True,True,sedan,True,4-6,1380000000,13/03/2020,False
+volkswagen,polo,sport,2020,True,True,hatchback,True,4-6,639000000,13/03/2020,False
+kia,sedona,luxury,2020,True,True,minivan,False,6-7,1099000000,13/03/2020,True
+volkswagen,scirocco,gts,2018,True,True,coupe,True,4-6,1399000000,13/03/2020,False
+ford,ranger,xls,2020,True,True,pickup,False,4-6,619000000,13/03/2020,False
+volkswagen,tiguan,luxury topline,2020,True,True,suv,True,6-7,1799000000,13/03/2020,False
+ford,explorer,2020,2020,True,True,suv,True,6-7,1999000000,13/03/2020,True
+ford,ecosport,ambiente mt,2020,True,False,suv,True,4-6,455000000,13/03/2020,True
+volkswagen,passat,comfort,2019,True,True,sedan,True,4-6,1380000000,13/03/2020,False
+mazda,3,1.5,2020,True,True,sedan,True,4-6,639000000,13/03/2020,True
+subaru,forester,il,2019,True,True,suv,True,4-6,948000000,13/03/2020,False
+volkswagen,polo,hatchback,2020,True,True,hatchback,True,4-6,695000000,13/03/2020,False
+volkswagen,beetle,dune,2020,True,True,coupe,True,4-6,1499000000,12/03/2020,False
+hyundai,santa_fe,2.4at,2017,False,True,sedan,True,6-7,840000000,12/03/2020,True
+peugeot,5008,allure,2020,True,True,suv,True,6-7,1349000000,12/03/2020,True
+toyota,vios,mt,2020,True,False,sedan,True,4-6,470000000,12/03/2020,True
+kia,sedona,dath,2016,False,True,minivan,False,6-7,860000000,12/03/2020,True
+toyota,fortuner,2.4 g,2017,False,False,suv,True,6-7,855000000,12/03/2020,False
+mazda,2,new 2020,2020,True,True,sedan,True,4-6,509000000,12/03/2020,True
+honda,civic,sedan,2020,True,True,sedan,True,4-6,729000000,12/03/2020,False
+mercedes benz,s_series,450l,2017,False,True,sedan,True,4-6,3679000000,12/03/2020,True
+kia,soluto,deluxe,2020,True,True,sedan,True,4-6,425000000,12/03/2020,True
+chevrolet,captiva,ltz 2.4at,2017,False,True,suv,True,6-7,650000000,12/03/2020,True
+mitsubishi,mirage,2019,2019,True,True,hatchback,True,4-6,430000000,12/03/2020,False
+mazda,cx_5,cx-5 awd,2018,True,True,suv,True,4-6,904000000,12/03/2020,True
+toyota,vios,e 1.5cvt,2019,False,True,sedan,True,4-6,525000000,12/03/2020,True
+mercedes benz,v250,2017,2016,False,True,minivan,True,6-7,1769000000,12/03/2020,False
+honda,cr_v,2.5l,2010,False,True,suv,True,4-6,498000000,12/03/2020,True
+toyota,camry,2.5q,2017,False,True,sedan,True,4-6,870000000,12/03/2020,True
+hyundai,elantra,sport,2020,True,True,sedan,True,4-6,540000000,12/03/2020,True
+mazda,cx_8,mazda cx-8 deluxe,2020,True,True,suv,True,6-7,1069000000,12/03/2020,True
+toyota,innova,2.0v,2014,False,True,minivan,True,6-7,520000000,12/03/2020,True
+thaco,auman,c160.e4,2019,True,False,pickup,False,2,749000000,12/03/2020,True
+volkswagen,scirocco,gts,2017,True,True,coupe,True,4-6,1399000000,11/03/2020,False
+hyundai,santa_fe,suv,2020,True,True,suv,False,6-7,1290000000,11/03/2020,True
+ford,ranger,xlt,2014,False,False,pickup,False,4-6,430000000,11/03/2020,False
+volkswagen,passat,full option,2019,True,True,sedan,True,4-6,1380000000,11/03/2020,False
+volkswagen,new_beetle,model mới nhất,2019,True,True,coupe,True,4-6,1499000000,11/03/2020,False
+mazda,2,1.5 all new,2020,True,True,sedan,True,4-6,509000000,11/03/2020,False
+kia,morning,1.25 mt,2019,False,False,hatchback,True,4-6,290000000,11/03/2020,True
+ford,everest,titanium,2020,True,True,suv,False,6-7,1399000000,11/03/2020,False
+kia,sorento,dath crdi 2.2 at,2018,False,True,suv,False,6-7,868000000,11/03/2020,True
+mercedes benz,v250,v250,2017,False,True,van,True,8-10,1739000000,11/03/2020,False
+lexus,rx_450h,rx 450h,2020,True,True,suv,True,4-6,4850000000,11/03/2020,False
+toyota,fortuner,2.7v,2017,False,True,suv,True,6-7,970000000,11/03/2020,False
+toyota,fortuner,g,2019,True,False,suv,False,6-7,983000000,11/03/2020,True
+mitsubishi,attrage,cvt eco,2019,True,True,sedan,True,4-6,375000000,11/03/2020,False
+volkswagen,tiguan,allspace highline,2018,True,True,suv,True,6-7,1749000000,11/03/2020,False
+mitsubishi,xpander,2019,2019,True,False,suv,True,6-7,540000000,11/03/2020,False
+vinfast,fadil,at cvt,2020,True,True,hatchback,True,4-6,414900000,11/03/2020,True
+thaco,town,mobihome tb120sl,2020,True,False,van,False,29+,3590000000,11/03/2020,True
+toyota,innova,2.0g,2013,False,True,minivan,True,8-10,450000000,11/03/2020,True
+thaco,towner,800,2020,True,False,pickup,True,2,158000000,11/03/2020,True
+honda,city,2017,2017,False,True,sedan,True,4-6,440000000,11/03/2020,True
+faw,6t,mới,2017,True,False,convertible,False,3,415000000,11/03/2020,True
+toyota,camry,2.5q,2019,False,True,sedan,True,4-6,1090000000,10/03/2020,True
+kia,k250,kia frontier k250,2020,True,False,pickup,False,3,387000000,10/03/2020,True
+mazda,cx_8,prenium,2020,True,True,suv,True,6-7,1349000000,10/03/2020,True
+honda,civic,sedan,2020,True,True,sedan,True,4-6,789000000,10/03/2020,False
+honda,cr_v,2.4 at,2012,False,True,suv,True,4-6,579000000,10/03/2020,True
+honda,cr_v,1.5 e,2018,False,True,suv,True,6-7,895000000,10/03/2020,False
+honda,civic,1.5 turbo rs,2020,True,True,sedan,True,4-6,899000000,10/03/2020,False
+volkswagen,tiguan,allplace,2019,True,True,sedan,True,4-6,1729000000,10/03/2020,False
+thaco,ollin,thaco 2018,2018,True,False,pickup,False,3,354000000,10/03/2020,True
+toyota,vios,g cvt,2020,True,True,sedan,True,4-6,570000000,10/03/2020,True
+kia,sedona,luxury,2020,True,True,minivan,False,8-10,1209000000,10/03/2020,True
+toyota,corolla_altis,1.8g cvt,2020,True,True,sedan,True,4-6,744000000,10/03/2020,True
+toyota,innova,2.0g,2020,True,True,convertible,True,8-10,787000000,10/03/2020,True
+toyota,innova,venturer,2020,True,True,convertible,True,8-10,819000000,10/03/2020,True
+toyota,fortuner,trd 2.7at 4x2,2019,True,True,suv,True,6-7,1199000000,10/03/2020,True
+mercedes benz,e300,e300 amg,2016,False,True,sedan,True,4-6,2099000000,09/03/2020,False
+mercedes benz,e300,e300 amg,2017,False,True,sedan,True,4-6,2399000000,09/03/2020,True
+kia,sedona,dat deluxe,2020,True,True,van,False,6-7,1059000000,09/03/2020,True
+toyota,sienna,le 3.5 v6,2008,False,True,minivan,True,6-7,660000000,09/03/2020,False
+honda,cr_v,suv,2020,True,False,suv,True,4-6,983000000,09/03/2020,False
+ford,f150,f 150 raptor 2020,2020,True,True,offroad,True,4-6,4250000000,09/03/2020,False
+mitsubishi,xpander,at,2017,True,True,suv,True,6-7,620000000,09/03/2020,False
+kia,morning,sx 1.1 at,2010,False,True,hatchback,True,4-6,215000000,09/03/2020,True
+mazda,2,1.5 deluxe,2019,True,True,sedan,True,4-6,479000000,09/03/2020,False
+mercedes benz,s450,s450 luxury,2018,False,True,sedan,True,4-6,3950000000,09/03/2020,True
+thaco,towner,towner800,2018,True,False,pickup,True,2,156000000,09/03/2020,True
+mazda,cx_5,2.0 premium,2020,True,True,suv,True,4-6,949000000,09/03/2020,True
+mazda,cx_8,2.5 deluxe,2020,True,True,suv,True,6-7,1099000000,09/03/2020,True
+mazda,cx_5,2.5 premium awd,2019,True,True,suv,True,4-6,989000000,09/03/2020,True
+hyundai,tucson,2.0,2017,False,True,suv,True,4-6,816000000,09/03/2020,True
+volkswagen,tiguan,2019,2019,True,True,suv,True,6-7,1729000000,09/03/2020,False
+mitsubishi,xpander,at,2019,True,True,suv,True,6-7,620000000,09/03/2020,True
+kia,cerato,1.6,2020,True,True,sedan,True,4-6,635000000,09/03/2020,True
+mercedes benz,s450,s450 luxury,2018,False,True,sedan,True,4-6,4060000000,09/03/2020,True
+hyundai,tucson,tiêu chuẩn,2020,True,True,suv,True,4-6,766000000,09/03/2020,True
+mitsubishi,triton,mt,2019,True,False,pickup,False,4-6,865000000,09/03/2020,True
+honda,civic_coupe,sedan,2019,True,True,sedan,True,4-6,729000000,09/03/2020,False
+toyota,fortuner,2.4at 4x2,2019,True,True,suv,False,6-7,1011000000,09/03/2020,True
+kia,morning,số sàn,2020,True,False,hatchback,True,4-6,299000000,09/03/2020,True
+peugeot,5008,2020,2019,True,True,suv,True,6-7,1349000000,09/03/2020,True
+mercedes benz,e200,exclusive,2020,True,True,sedan,True,4-6,2290000000,09/03/2020,True
+mercedes benz,c180,avantgarde,2019,True,True,sedan,True,4-6,1399000000,09/03/2020,True
+mazda,cx_8,suv,2019,True,True,suv,True,6-7,1199000000,09/03/2020,True
+mercedes benz,c250,exclusive,2017,False,True,sedan,True,4-6,1429000000,09/03/2020,True
+toyota,wigo,at,2020,True,True,hatchback,True,4-6,390000000,09/03/2020,False
+kia,soluto,mt deluxe,2020,True,False,sedan,True,4-6,399000000,08/03/2020,True
+kia,morning,exmt,2016,False,False,hatchback,True,4-6,240000000,08/03/2020,True
+hyundai,sonata,2.0mt,2009,False,False,sedan,True,4-6,348000000,08/03/2020,False
+kia,sorento,2.2at,2018,False,True,suv,False,6-7,888000000,08/03/2020,True
+kia,cerato,1.6mt,2017,False,False,sedan,True,4-6,458000000,08/03/2020,True
+mercedes benz,c200,exclusive,2017,False,True,sedan,True,4-6,1439000000,08/03/2020,False
+ford,ranger,ranger xls,2019,True,False,pickup,False,4-6,600000000,08/03/2020,False
+mercedes benz,v250,v250,2018,False,True,minivan,True,6-7,1769000000,08/03/2020,True
+toyota,fortuner,2.4mt,2020,True,False,suv,False,8-10,1033000000,08/03/2020,True
+toyota,innova,2.0e,2020,True,True,suv,True,8-10,771000000,08/03/2020,True
+mercedes benz,e250,e250,2019,False,True,sedan,True,4-6,2168000000,07/03/2020,False
+mercedes benz,e300,e300 amg,2018,False,True,sedan,True,4-6,2130000000,07/03/2020,True
+kia,optima,luxury,2020,True,True,sedan,True,4-6,789000000,07/03/2020,True
+kia,sorento,at,2020,True,True,suv,True,6-7,799000000,07/03/2020,True
+mercedes benz,s450,luxury,2017,False,True,sedan,True,4-6,4600000000,07/03/2020,False
+hyundai,county,cửa gập,2019,True,False,van,False,24-29,1350000000,07/03/2020,True
+kia,sorento,premium,2020,True,True,suv,True,6-7,949000000,07/03/2020,True
+suzuki,blind_van,2020,2020,True,False,minivan,True,2,293000000,07/03/2020,True
+hyundai,accent,1.4,2019,True,True,sedan,True,4-6,490000000,07/03/2020,True
+kia,rondo,deluxe,2020,True,True,minivan,True,6-7,669000000,07/03/2020,True
+thaco,towner,towner 800,2019,True,False,pickup,True,2,156000000,07/03/2020,True
+kia,k250,frontier k250,2020,True,False,pickup,False,3,384000000,07/03/2020,False
+kia,soluto,at deluxe,2020,True,True,sedan,True,4-6,455000000,07/03/2020,True
+kia,soluto,mt deluxe,2020,True,False,sedan,True,4-6,415000000,07/03/2020,True
+lexus,gs,3.5l,2012,False,True,sedan,True,4-6,1800000000,07/03/2020,True
+lexus,rx_350,2013,2013,False,True,suv,True,6-7,1850000000,06/03/2020,False
+audi,a6,tfsi,2019,False,True,sedan,True,4-6,1890000000,06/03/2020,False
+honda,city,sedan,2019,True,True,sedan,True,4-6,599000000,06/03/2020,True
+mitsubishi,attrage,cvt và cvt eco,2019,True,True,sedan,True,4-6,425000000,06/03/2020,False
+hyundai,accent,mt,2020,True,False,sedan,True,4-6,417000000,06/03/2020,True
+hyundai,i10,mt base,2020,True,False,hatchback,True,4-6,320000000,06/03/2020,True
+mazda,3,1.5at,2018,False,True,sedan,True,4-6,626000000,06/03/2020,True
+ford,ranger,2019,2019,True,False,pickup,False,4-6,600000000,06/03/2020,False
+ford,ranger,xls mt,2020,True,False,pickup,False,4-6,616000000,06/03/2020,False
+ford,ranger,xlt at,2020,True,True,pickup,False,4-6,789000000,06/03/2020,False
+ford,tourneo,titanium 2.0l,2020,True,True,minivan,True,6-7,1069000000,06/03/2020,True
+mercedes benz,glc250,2.0l,2019,False,True,suv,True,4-6,1880000000,06/03/2020,True
+mazda,3,1.5at,2016,False,True,sedan,True,4-6,548000000,06/03/2020,True
+kia,cerato,1.6l luxury,2020,True,True,sedan,True,4-6,635000000,06/03/2020,True
+kia,soluto,1.4l at deluxe,2020,True,True,sedan,True,4-6,455000000,06/03/2020,True
+kia,cerato,1.6l luxury,2020,True,True,sedan,True,4-6,559000000,06/03/2020,True
+kia,sedona,luxury,2020,True,True,minivan,False,6-7,1209000000,06/03/2020,True
+isuzu,mu_x,2.5mt,2017,False,False,suv,False,6-7,676000000,06/03/2020,False
+kia,optima,2.0 luxury,2020,True,True,sedan,True,4-6,779000000,06/03/2020,True
+kia,soluto,mt base,2020,True,False,sedan,True,4-6,389000000,06/03/2020,True
+kia,cerato,1.6 at luxury,2020,True,True,sedan,True,4-6,635000000,06/03/2020,True
+kia,sedona,2.2,2020,True,True,minivan,False,6-7,1209000000,06/03/2020,True
+kia,rondo,2.0at,2017,False,True,minivan,True,6-7,558000000,06/03/2020,True
+toyota,fortuner,trd,2020,True,True,suv,True,6-7,1199000000,06/03/2020,True
+kia,sorento,gat premium,2020,True,True,suv,True,6-7,889000000,06/03/2020,True
+kia,sedona,sedona 2.2 day delux,2020,True,True,minivan,False,6-7,1099000000,06/03/2020,True
+kia,cerato,2.0 at premium,2020,True,True,sedan,True,4-6,675000000,06/03/2020,True
+mazda,cx_5,20,2019,False,True,suv,True,4-6,838000000,06/03/2020,True
+kia,rondo,gat deluxe,2020,True,True,minivan,True,6-7,664000000,06/03/2020,True
+thaco,towner,thaco kia k200,2020,True,False,pickup,False,3,335000000,06/03/2020,True
+kia,soluto,deluxe,2020,True,False,sedan,True,4-6,415000000,06/03/2020,True
+kia,cerato,1.6 at,2020,True,True,sedan,True,4-6,579000000,06/03/2020,True
+mazda,cx_5,mazda cx-5 new 2020,2020,True,True,suv,True,4-6,949000000,06/03/2020,True
+freightliner,cascadia,evolution,2017,True,True,pickup,False,3,1450000000,06/03/2020,False
+kia,soluto,deluxe,2020,True,True,sedan,True,4-6,455000000,06/03/2020,True
+hyundai,elantra,1.6at,2018,False,True,sedan,True,4-6,588000000,06/03/2020,True
+kia,k3000,k250,2020,True,False,pickup,False,3,585000000,06/03/2020,True
+thaco,aumark,c160,2020,True,False,pickup,False,3,749000000,06/03/2020,True
+kia,sedona,luxury,2020,True,True,van,False,6-7,1174000000,06/03/2020,True
+mazda,mazda3,1.5 at,2016,False,True,sedan,True,4-6,545000000,06/03/2020,True
+mazda,6,suv,2019,True,True,suv,True,4-6,932000000,06/03/2020,True
+kia,rondo,crdi 1.7 at,2016,False,True,suv,False,6-7,568000000,05/03/2020,True
+hyundai,accent,1.4 số sàn,2020,True,False,sedan,True,4-6,420000000,05/03/2020,True
+kia,sorento,2.4mt,2012,False,False,suv,True,6-7,486000000,05/03/2020,True
+honda,city,1.5,2020,True,True,sedan,True,4-6,559000000,05/03/2020,True
+hyundai,elantra,1.8at,2013,False,True,sedan,True,4-6,448000000,05/03/2020,False
+kia,soluto,mt deluxe,2020,True,False,sedan,True,4-6,425000000,05/03/2020,True
+hyundai,santa_fe,premium,2020,True,True,suv,False,6-7,990000000,05/03/2020,True
+kia,rondo,deluxe,2020,True,True,minivan,True,6-7,669000000,05/03/2020,True
+kia,optima,2.4,2020,True,True,sedan,True,4-6,969000000,05/03/2020,True
+toyota,rush,at,2020,True,True,suv,True,6-7,668000000,05/03/2020,False
+kia,optima,2.0,2020,True,True,sedan,True,4-6,789000000,05/03/2020,True
+kia,sedona,2.2 deluxe,2020,True,True,minivan,False,6-7,1099000000,05/03/2020,True
+toyota,yaris,1.5g cvt,2020,True,True,hatchback,True,4-6,635000000,05/03/2020,False
+kia,sedona,2.2 dat luxury,2020,True,True,minivan,False,6-7,1209000000,05/03/2020,True
+volkswagen,tiguan,tiguan allspace,2019,True,True,suv,True,6-7,1749000000,05/03/2020,False
+chevrolet,colorado,ltz 2.5 at 4×2,2019,False,True,pickup,False,4-6,599000000,05/03/2020,False
+ford,everest,2020,2019,True,True,suv,False,6-7,999000000,05/03/2020,False
+toyota,vios,1.5l số sàn,2020,True,False,sedan,True,4-6,470000000,05/03/2020,True
+kia,sedona,2.2 dat luxury,2020,True,True,minivan,False,6-7,1209000000,05/03/2020,True
+hyundai,sonata_hybrid,2012,2011,False,True,sedan,True,4-6,475000000,05/03/2020,False
+kia,sorento,deluxe gat,2020,True,True,suv,True,6-7,799000000,05/03/2020,True
+hyundai,i10,hyundai i10,2020,True,False,hatchback,True,4-6,320000000,05/03/2020,True
+kia,morning,at luxury,2019,True,True,hatchback,True,4-6,393000000,05/03/2020,True
+thaco,ollin,ollin thùng kín,2019,True,False,pickup,False,3,354000000,05/03/2020,True
+thaco,auman,auman c160.e4,2019,True,False,pickup,False,2,749000000,05/03/2020,True
+thaco,forland,xe ben 8 tấn 2 cầu 1,2019,True,False,pickup,False,3,775000000,05/03/2020,True
+mazda,cx_8,cx-8 deluxe,2020,True,True,suv,True,6-7,1099000000,05/03/2020,True
+mazda,3,1.5 sedan,2020,True,True,sedan,True,4-6,689000000,05/03/2020,True
+toyota,innova,venturer,2020,True,True,minivan,True,8-10,839000000,04/03/2020,True
+toyota,land_cruiser_200,alphard,2019,True,True,suv,True,6-7,4038000000,04/03/2020,False
+hyundai,solati,2.5 máy dầu,2019,True,False,wagon,False,16,950000000,04/03/2020,True
+mini,cooper_countryman,s,2015,False,True,hatchback,True,4-6,1280000000,04/03/2020,False
+mazda,cx_5,2.5at 2wd,2018,False,True,suv,True,4-6,910000000,04/03/2020,True
+thaco,foton,thaco frontier k200,2020,True,False,pickup,False,3,335000000,04/03/2020,True
+toyota,fortuner,2.8at máy dầu 4x4,2019,True,True,suv,False,6-7,1319000000,04/03/2020,True
+toyota,fortuner,g,2018,False,False,suv,False,6-7,925000000,04/03/2020,False
+toyota,vios,1.5e mt,2019,True,False,sedan,True,4-6,470000000,04/03/2020,True
+toyota,innova,2.0g,2019,True,True,minivan,True,8-10,817000000,04/03/2020,True
+toyota,innova,venturer,2019,True,True,minivan,True,8-10,849000000,04/03/2020,True
+toyota,camry,2.0g,2020,True,True,sedan,True,4-6,1029000000,04/03/2020,False
+hyundai,starex,2.5 at,2015,False,True,minivan,True,8-10,520000000,04/03/2020,False
+toyota,fortuner,đặc biệt,2019,True,True,suv,False,6-7,1026000000,04/03/2020,False
+toyota,innova,2.0e,2015,False,False,minivan,True,8-10,520000000,04/03/2020,True
+toyota,vios,1.5cvt,2018,False,True,sedan,True,4-6,500000000,04/03/2020,True
+toyota,innova,số sàn,2019,True,False,suv,True,8-10,711000000,04/03/2020,True
+hyundai,solati,ghế u 2020,2020,True,False,van,False,16,940000000,04/03/2020,False
+suzuki,ertiga,1.5,2019,False,True,suv,True,6-7,555000000,04/03/2020,False
+volkswagen,polo,2020,2020,True,True,hatchback,True,4-6,695000000,04/03/2020,False
+toyota,fortuner,fortuner 2017,2017,False,True,suv,True,6-7,1100000000,04/03/2020,False
+kia,cerato,mt,2020,True,True,sedan,True,4-6,559000000,04/03/2020,True
+hyundai,accent,1.4 tự động,2019,True,True,sedan,True,4-6,530000000,04/03/2020,True
+toyota,fortuner,2.7 v trd,2019,True,False,suv,True,6-7,1199000000,04/03/2020,True
+toyota,innova,e,2020,True,False,minivan,True,6-7,706000000,04/03/2020,True
+honda,civic,sedan cao cấp,2019,True,True,sedan,True,4-6,929000000,03/03/2020,False
+honda,hr_v,suv,2019,True,True,convertible,True,4-6,786000000,03/03/2020,False
+honda,brio,rs,2019,True,True,hatchback,True,4-6,418000000,03/03/2020,True
+honda,civic,rs,2019,True,True,sedan,True,4-6,929000000,03/03/2020,True
+honda,hr_v,g,2019,True,True,suv,True,6-7,786000000,03/03/2020,True
+honda,accord,sedan,2019,True,True,sedan,True,4-6,1329000000,03/03/2020,False
+honda,city,sedan,2019,True,True,sedan,True,4-6,529000000,03/03/2020,True
+honda,cr_v,new,2019,True,True,suv,True,6-7,983000000,03/03/2020,True
+honda,jazz,vx,2019,True,True,hatchback,True,4-6,594000000,03/03/2020,True
+toyota,innova,e,2020,True,True,suv,True,6-7,706000000,03/03/2020,True
+honda,city,top,2019,True,True,sedan,True,4-6,599000000,03/03/2020,True
+kia,k250,xe tải kia k250,2020,True,False,convertible,False,3,387000000,03/03/2020,True
+mercedes benz,c200,2018,2019,False,True,sedan,True,4-6,1399000000,03/03/2020,False
+mercedes benz,c200,2018,2018,False,True,sedan,True,4-6,1400000000,03/03/2020,False
+mercedes benz,c200,exclusive,2017,False,True,sedan,True,4-6,1639000000,03/03/2020,False
+honda,city,top,2019,True,True,sedan,True,4-6,599000000,03/03/2020,True
+ford,ecosport,ecoboost,2020,True,True,suv,True,4-6,689000000,03/03/2020,True
+ford,explorer,limited,2020,True,True,suv,True,6-7,1999000000,03/03/2020,False
+toyota,innova,ventuter,2020,True,True,hatchback,True,8-10,819000000,03/03/2020,True
+toyota,innova,e 2.0mt,2020,True,False,hatchback,True,8-10,706000000,03/03/2020,True
+mercedes benz,gle450,450 4matic,2019,False,True,suv,True,6-7,4369000000,03/03/2020,False
+hyundai,i10,grand i10,2019,True,False,hatchback,True,4-6,330000000,03/03/2020,True
+kia,rondo,gat deluxe,2020,True,True,hatchback,True,6-7,585000000,03/03/2020,True
+hyundai,i10,2017,2019,True,True,sedan,True,4-6,330000000,03/03/2020,True
+mercedes benz,e200,mới,2020,True,True,sedan,True,4-6,2290000000,03/03/2020,True
+hyundai,i10,1.2 mt,2019,True,False,hatchback,True,4-6,370000000,03/03/2020,False
+hyundai,i10,mt,2020,True,False,hatchback,True,4-6,370000000,03/03/2020,True
+nissan,terra,terra v 4wd,2019,True,True,suv,True,6-7,979000000,03/03/2020,False
+mercedes benz,c200,c200,2016,False,True,sedan,True,4-6,1189000000,03/03/2020,True
+nissan,terra,s máy dầu số sàn,2019,True,False,suv,False,6-7,799000000,03/03/2020,False
+kia,sedona,luxury,2020,True,True,suv,False,6-7,1209000000,03/03/2020,True
+nissan,x_trail,xtrail 2.5 sv,2019,True,True,suv,True,6-7,899000000,03/03/2020,True
+toyota,hilux,2.8,2020,True,True,pickup,False,4-6,848000000,03/03/2020,False
+toyota,corolla_altis,1.8,2020,True,True,sedan,True,4-6,736000000,03/03/2020,True
+toyota,yaris,1.5e,2020,True,True,hatchback,True,4-6,635000000,03/03/2020,False
+mazda,2,1.5at,2016,False,True,sedan,True,4-6,456000000,03/03/2020,True
+toyota,fortuner,2.7v,2013,False,True,suv,True,8-10,630000000,03/03/2020,True
+chevrolet,spark,ltz,2013,False,True,hatchback,True,4-6,225000000,03/03/2020,True
+freightliner,cascadia,evolution,2017,False,True,pickup,False,3,1450000000,03/03/2020,False
+honda,city,cvt,2017,False,True,sedan,True,4-6,488000000,02/03/2020,True
+kia,sorento,2.4at,2014,False,True,suv,True,6-7,626000000,02/03/2020,True
+toyota,fortuner,2.5mt,2016,False,False,suv,False,6-7,756000000,02/03/2020,True
+mercedes benz,e250,2017,2017,False,True,sedan,True,4-6,1990000000,02/03/2020,True
+hyundai,accent,1.4 at,2018,False,True,sedan,True,4-6,518000000,02/03/2020,True
+honda,jazz,at,2019,False,True,hatchback,True,4-6,580000000,02/03/2020,False
+kia,sorento,2.4 gat deluxe,2020,True,True,suv,True,6-7,799000000,02/03/2020,True
+kia,sedona,sedona dat deluxe,2020,True,True,minivan,False,6-7,1099000000,02/03/2020,True
+toyota,avanza,at,2020,True,True,convertible,True,6-7,587000000,02/03/2020,False
+ford,ecosport,5 chổ,2020,True,True,suv,True,4-6,490000000,01/03/2020,True
+ford,everest,7 chổ,2019,True,True,suv,False,6-7,949000000,01/03/2020,False
+mercedes benz,gle400_coupe,400 coupe,2019,False,True,coupe,True,4-6,4129000000,01/03/2020,False
+ford,ranger,5 chổ,2019,True,True,pickup,False,4-6,616000000,01/03/2020,False
+mercedes benz,c250,c250,2018,False,True,sedan,True,4-6,1539000000,01/03/2020,True
+ford,everest,titanium,2020,True,True,suv,False,6-7,1125000000,01/03/2020,False
+ford,everest,ambiente,2019,True,True,suv,False,6-7,965000000,01/03/2020,False
+mercedes benz,e300,e300 amg,2017,False,True,sedan,True,4-6,2099000000,01/03/2020,False
+mercedes benz,c200,c200,2019,False,True,sedan,True,4-6,1439000000,01/03/2020,False
+mercedes benz,e200,e200,2019,False,True,sedan,True,4-6,1989000000,01/03/2020,False
+mercedes benz,s_series,450l,2017,False,True,sedan,True,4-6,3579000000,01/03/2020,True
+honda,hr_v,l,2019,True,True,suv,True,6-7,866000000,01/03/2020,True
+honda,accord,1.5 turbo,2019,True,True,sedan,True,4-6,1319000000,01/03/2020,True
+mercedes benz,c300,amg,2017,False,True,sedan,True,4-6,1589000000,01/03/2020,True
+honda,city,1.5 at,2014,False,True,sedan,True,4-6,395000000,29/02/2020,True
+toyota,camry,2.0e,2017,False,True,sedan,True,4-6,820000000,29/02/2020,True
+toyota,fortuner,2.7v 4wd,2010,False,True,suv,True,8-10,490000000,29/02/2020,True
+bmw,325i,2010,2010,False,True,sedan,True,4-6,999000000,29/02/2020,False
+hyundai,i10,1.2,2019,True,True,suv,True,4-6,784000000,28/02/2020,True
+hyundai,accent,1.4 mt,2020,True,True,sedan,True,4-6,428000000,28/02/2020,True
+mercedes benz,c200,c200,2017,False,True,sedan,True,4-6,1180000000,28/02/2020,True
+ford,everest,titanium biturbo,2020,True,True,suv,False,6-7,1340000000,28/02/2020,False
+hyundai,santa_fe,2.4,2019,True,True,suv,True,6-7,1005000000,28/02/2020,True
+mazda,3,luxury,2020,True,True,sedan,True,4-6,759000000,28/02/2020,True
+honda,cr_v,2.4 at,2015,False,True,suv,True,4-6,768000000,28/02/2020,True
+hyundai,elantra_gt,2.0,2020,True,True,sedan,True,4-6,625000000,28/02/2020,True
+kia,sorento,2.2dat dầu cao cấp,2020,True,True,suv,False,6-7,929000000,28/02/2020,True
+toyota,rush,1.5,2020,True,True,suv,True,6-7,668000000,28/02/2020,False
+kia,sorento,deluxe,2020,True,True,suv,True,6-7,789000000,28/02/2020,True
+kia,k3000s,k250,2019,True,False,pickup,False,3,379000000,28/02/2020,True
+hyundai,solati,không giới hạn,2020,True,True,convertible,False,16,980000000,28/02/2020,True
+thaco,town,tb120sl,2020,True,False,minivan,False,29+,3190000000,28/02/2020,True
+thaco,town,tb79s,2020,True,False,minivan,False,24-29,1610000000,28/02/2020,True
+kia,cerato,mt,2020,True,True,sedan,True,4-6,549000000,28/02/2020,True
+volkswagen,tiguan,2020,2019,True,True,suv,True,6-7,1729000000,28/02/2020,False
+ford,fiesta,hatchback at,2011,False,True,hatchback,True,4-6,315000000,28/02/2020,True
+mercedes benz,glc200,4 matic,2020,True,True,sedan,True,4-6,2039000000,28/02/2020,True
+volkswagen,passat,bluemotion,2019,True,True,sedan,True,4-6,1420000000,28/02/2020,False
+kia,sorento,gat deluxe,2020,True,True,suv,True,6-7,799000000,28/02/2020,True
+mazda,cx_8,deluxe,2020,True,True,suv,True,6-7,1099000000,27/02/2020,True
+suzuki,ertiga,at,2020,True,True,suv,True,6-7,555000000,27/02/2020,False
+mercedes benz,s450,s450,2019,False,True,sedan,True,4-6,3869000000,27/02/2020,True
+kia,sedona,sedona dat luxury,2020,True,True,minivan,False,4-6,1209000000,27/02/2020,True
+ford,ecosport,ecosport,2020,True,True,suv,True,4-6,485000000,27/02/2020,True
+kia,cerato,cerato premium,2020,True,True,sedan,True,4-6,675000000,27/02/2020,True
+ford,tourneo,tourneo limousine,2020,True,True,van,True,6-7,1160000000,27/02/2020,True
+ford,tourneo,tourneo trend,2020,True,True,minivan,True,6-7,909000000,27/02/2020,True
+mercedes benz,s450,2019,2019,False,True,sedan,True,4-6,3679000000,27/02/2020,False
+kia,sedona,deluxe,2020,True,True,minivan,False,6-7,1059000000,27/02/2020,True
+hyundai,tucson,2.0,2019,True,True,suv,True,4-6,838000000,27/02/2020,True
+mercedes benz,e300,e300 amg,2013,False,True,sedan,True,4-6,960000000,27/02/2020,True
+kia,morning,morning at,2019,True,True,hatchback,True,4-6,329000000,27/02/2020,True
+suzuki,supper_carry_pro,mới,2019,True,False,roadster,True,2,299000000,27/02/2020,False
+mercedes benz,c300,c300,2018,False,True,sedan,True,4-6,1580000000,27/02/2020,True
+chevrolet,colorado,highcoutry 2.8at 4×4,2017,False,True,pickup,False,4-6,625000000,27/02/2020,False
+kia,sorento,dat premium,2020,True,True,suv,False,6-7,949000000,27/02/2020,True
+toyota,wigo,mt,2020,True,False,hatchback,True,4-6,330000000,27/02/2020,False
+mitsubishi,xpander,1.5,2019,False,True,suv,True,6-7,650000000,27/02/2020,False
+mitsubishi,outlander,2020,2020,True,True,suv,True,6-7,825000000,27/02/2020,True
+dongfeng,dfl3251,b180,2019,True,False,offroad,False,3,350000000,27/02/2020,False
+vinfast,lux-sa-2-0,2020,2020,True,True,suv,True,6-7,1249000000,27/02/2020,True
+mazda,bt_50,2.2 ath,2019,True,True,pickup,True,4-6,654000000,27/02/2020,False
+toyota,tundra,ifoce,2012,False,True,suv,True,6-7,1450000000,26/02/2020,False
+mercedes benz,glc200,avantgarde,2019,True,True,suv,True,4-6,1749000000,26/02/2020,True
+mazda,cx_5,2.5at 2wd,2018,False,True,suv,True,4-6,915000000,26/02/2020,True
+mazda,cx_5,2.5at awd signature,2019,False,True,suv,True,4-6,1090000000,26/02/2020,True
+kia,k250,k250 thùng kín,2020,True,False,convertible,False,3,387000000,26/02/2020,True
+chevrolet,trailblazer,4x4 at ltz 2.5l,2019,False,True,suv,False,6-7,898000000,26/02/2020,False
+ford,transit,2014,2014,False,False,van,False,16,400000000,26/02/2020,True
+hyundai,solati,limited,2019,True,False,minivan,False,16,1030000000,26/02/2020,False
+kia,k3000s,k200,2019,True,False,pickup,False,3,335000000,26/02/2020,True
+mazda,mazda3,1.5at,2018,False,True,sedan,True,4-6,620000000,26/02/2020,True
+suzuki,super_carry_truck,2020,2020,True,False,pickup,True,2,282000000,26/02/2020,True
+kia,morning,s,2018,False,True,hatchback,True,4-6,368000000,26/02/2020,True
+suzuki,super_carry,2020,2020,True,False,pickup,True,2,267000000,26/02/2020,True
+ford,everest,2.0,2019,True,True,suv,False,6-7,1181000000,26/02/2020,False
+kia,k3,1.6,2014,False,True,sedan,True,4-6,455000000,26/02/2020,True
+mitsubishi,xpander,mvp,2018,False,False,suv,True,6-7,549000000,26/02/2020,False
+hyundai,tucson,2.0,2018,False,True,suv,True,4-6,825000000,26/02/2020,True
+thaco,towner,towner990,2019,True,False,hatchback,True,2,216000000,26/02/2020,True
+kia,frontier,k250,2019,True,False,wagon,False,3,382000000,26/02/2020,True
+toyota,avanza,at,2020,True,True,suv,True,6-7,587000000,26/02/2020,False
+chevrolet,orlando,ltz,2015,False,True,van,True,6-7,410000000,25/02/2020,True
+mitsubishi,xpander,tự động full,2019,False,True,suv,True,6-7,648000000,25/02/2020,False
+mazda,mazda3,3,2017,False,True,sedan,True,4-6,560000000,25/02/2020,True
+toyota,land_cruiser,5.7 limited,2015,False,True,suv,True,6-7,4150000000,25/02/2020,False
+lexus,nx_200t,2016,2016,False,True,suv,True,6-7,1880000000,25/02/2020,False
+toyota,sienna,limitted,2017,False,True,sedan,True,4-6,3150000000,25/02/2020,False
+land_rover,range_rover,sv autobiography 5.0,2016,False,True,suv,True,4-6,10500000000,25/02/2020,False
+lexus,gx_460,gx 460,2020,True,True,suv,True,6-7,6590000000,25/02/2020,False
+honda,jazz,rs 1.5cvt,2019,False,True,hatchback,True,4-6,580000000,25/02/2020,True
+hyundai,kona,2.0at,2019,False,True,hatchback,True,4-6,680000000,25/02/2020,True
+hyundai,kona,1.6turbo,2019,False,True,hatchback,True,4-6,725000000,25/02/2020,True
+hyundai,accent,m.t base,2019,True,False,sedan,True,4-6,417000000,25/02/2020,True
+mazda,3,hatchback 1.6 at,2010,False,True,hatchback,True,4-6,375000000,25/02/2020,False
+mercedes benz,glc200,2020,2020,True,True,suv,True,4-6,1732000000,25/02/2020,True
+toyota,avanza,mt,2020,True,False,minivan,True,6-7,519000000,25/02/2020,False
+foton,ollin,ollin 720,2020,True,False,pickup,False,3,509000000,25/02/2020,True
+thaco,forland,fd 250,2020,True,False,pickup,False,2,304000000,25/02/2020,True
+ford,transit,2020,2020,True,False,minivan,False,16,716000000,25/02/2020,True
+ford,everest,titanium 2.0 4x4,2020,True,True,suv,False,6-7,984000000,25/02/2020,False
+ford,everest,titanium 2.0 4x2,2020,True,True,suv,True,6-7,1181000000,25/02/2020,False
+ford,transit,luxury,2019,True,False,minivan,False,16,730000000,25/02/2020,True
+ford,everest,trend,2020,True,True,suv,False,6-7,1112000000,25/02/2020,False
+ford,ranger,2020,2020,True,False,pickup,False,4-6,616000000,25/02/2020,False
+ford,ranger,số sàn,2020,True,False,pickup,False,4-6,630000000,25/02/2020,False
+mercedes benz,e300,e300 amg,2019,False,True,sedan,True,4-6,2890000000,24/02/2020,True
+ford,ranger,xlt at 2.2l 4x4,2019,True,True,pickup,False,4-6,779000000,24/02/2020,False
+ford,explorer,explorer limeted 4x4,2019,True,True,suv,True,6-7,1999000000,24/02/2020,False
+vinfast,lux-sa-2-0,premium full option,2020,True,True,suv,True,6-7,1443000000,24/02/2020,True
+hyundai,i10,số sàn gia đình,2020,True,False,hatchback,True,4-6,338000000,24/02/2020,True
+mercedes benz,c250,c250,2018,False,True,sedan,True,4-6,1540000000,24/02/2020,True
+ford,everest,titanium 2.0 4x4,2020,True,True,suv,False,4-6,1052000000,24/02/2020,False
+mitsubishi,xpander,2020,2020,True,False,suv,True,6-7,550000000,24/02/2020,False
+honda,city,2019,2020,True,True,sedan,True,4-6,529000000,24/02/2020,True
+thaco,towner,2019,2019,True,False,pickup,False,3,387000000,24/02/2020,True
+thaco,towner,2019,2019,True,False,pickup,False,3,335000000,24/02/2020,True
+thaco,town,k250,2019,True,False,pickup,False,3,387000000,24/02/2020,True
+land_rover,range_rover,autobiography lwb3.0,2020,True,True,suv,True,4-6,10599000000,24/02/2020,False
+mercedes benz,e300,amg,2017,False,True,sedan,True,4-6,2189000000,24/02/2020,True
+mercedes benz,c300,2018,2017,False,True,sedan,True,4-6,1590000000,24/02/2020,True
+mazda,cx_5,2.0,2019,True,True,suv,True,4-6,835000000,24/02/2020,True
+kia,cerato,1.6 - số tự động,2017,False,True,sedan,True,4-6,539000000,23/02/2020,True
+mazda,cx_5,2.0at - 1 cầu,2014,False,True,suv,True,4-6,595000000,23/02/2020,True
+hyundai,accent,1.4at - số tự động,2019,False,True,sedan,True,4-6,515000000,23/02/2020,True
+mazda,cx_5,2.5at - 1 cầu,2018,False,True,suv,True,4-6,895000000,23/02/2020,True
+honda,cr_v,cao cấp,2020,True,True,suv,True,6-7,1093000000,23/02/2020,False
+mercedes benz,c300,c300 amg,2018,False,True,sedan,True,4-6,1580000000,23/02/2020,True
+ford,ranger,xlt limited,2020,True,True,pickup,False,4-6,779000000,23/02/2020,False
+thaco,towner,towner 990,2020,True,False,pickup,True,2,213000000,22/02/2020,False
+kia,k200,frontier k200,2020,True,False,pickup,False,3,332000000,22/02/2020,False
+nissan,navara,el 2.5 at 4×2,2016,False,True,pickup,False,4-6,485000000,22/02/2020,False
+honda,civic,g,2019,False,True,sedan,True,29+,790000000,22/02/2020,False
+mercedes benz,gle450,gle450 coupe,2016,False,True,coupe,True,4-6,3199000000,22/02/2020,True
+mercedes benz,e250,e250,2018,False,True,sedan,True,4-6,1790000000,22/02/2020,True
+kia,sedona,2.2dat deluxe,2020,True,True,minivan,False,6-7,1099000000,22/02/2020,True
+mercedes benz,c200,c200 exclusive,2019,False,True,sedan,True,4-6,1630000000,21/02/2020,True
+mercedes benz,e200,e200,2018,False,True,sedan,True,4-6,1930000000,21/02/2020,True
+mercedes benz,s450,s450l,2017,False,True,sedan,True,4-6,3590000000,21/02/2020,True
+toyota,vios,e 1.5 mt,2018,False,False,sedan,True,4-6,439000000,21/02/2020,True
+mercedes benz,s450,luxury,2018,False,True,sedan,True,4-6,4400000000,21/02/2020,True
+hyundai,tucson,1.6 turbo,2019,True,True,suv,True,4-6,888000000,21/02/2020,True
+thaco,town,thaco tb120s,2020,True,False,van,False,29+,2480000000,21/02/2020,True
+toyota,camry,2.5q,2015,False,True,sedan,True,4-6,860000000,21/02/2020,True
+mitsubishi,outlander,2.0 cvt,2020,True,True,suv,True,6-7,825000000,21/02/2020,True
+mitsubishi,outlander,2.0 cvt premium,2020,True,True,suv,True,6-7,950000000,21/02/2020,True
+toyota,fortuner,"2.7v , 4wd",2009,False,True,suv,True,8-10,490000000,21/02/2020,True
+kia,sorento,premium,2020,True,True,suv,False,6-7,949000000,21/02/2020,True
+honda,city,top,2017,False,True,suv,True,4-6,500000000,21/02/2020,True
+mitsubishi,xpander,at,2019,True,True,minivan,True,6-7,620000000,21/02/2020,False
+subaru,forester,xăng,2019,True,True,suv,True,4-6,948000000,21/02/2020,False
+subaru,outback-eyesight,xăng,2019,True,True,suv,True,4-6,1828000000,21/02/2020,False
+mitsubishi,triton,2019,2019,True,False,pickup,False,4-6,535000000,20/02/2020,False
+nissan,navara,vl 2.5 at 4×4,2015,False,True,pickup,False,4-6,559000000,20/02/2020,False
+mercedes benz,e300,e300 amg,2017,False,True,sedan,True,4-6,2289000000,20/02/2020,True
+mitsubishi,xpander,2019,2019,True,False,pickup,True,4-6,550000000,20/02/2020,False
+peugeot,5008,2020,2020,True,True,suv,True,6-7,1349000000,20/02/2020,True
+bmw,530,luxury,2019,False,True,sedan,True,4-6,2779000000,20/02/2020,False
+hyundai,tucson,1.6 turbo,2019,True,True,suv,True,4-6,889000000,20/02/2020,True
+hyundai,kona,1.6 turbo,2019,True,True,suv,True,4-6,709000000,20/02/2020,True
+foton,forland,fd950,2019,True,False,convertible,False,2,759000000,20/02/2020,True
+hyundai,i10,1.2 mt base,2019,True,False,sedan,True,4-6,345000000,20/02/2020,True
+hyundai,solati,2.5 mt,2019,True,False,van,False,16,975000000,20/02/2020,True
+hyundai,kona,2.0 at,2020,True,True,suv,True,4-6,669000000,20/02/2020,True
+toyota,sienna,le limited,2019,True,True,minivan,True,6-7,4380000000,20/02/2020,False
+ford,tourneo,limousine,2020,True,True,suv,True,6-7,1249000000,20/02/2020,True
+mercedes benz,c300,amg,2017,False,True,sedan,True,4-6,1615000000,20/02/2020,True
+honda,hr_v,l,2019,True,True,suv,True,6-7,866000000,19/02/2020,False
+honda,city,cvt,2020,True,True,sedan,True,4-6,599000000,19/02/2020,True
+mercedes benz,300,2019,2019,False,True,sedan,True,4-6,1859000000,19/02/2020,True
+kia,sedona,2.2 dat luxury,2019,True,True,minivan,False,6-7,1209000000,19/02/2020,True
+vinfast,fadil,1.4l at,2020,True,True,hatchback,True,4-6,414900000,19/02/2020,True
+honda,brio,rs,2019,True,True,hatchback,True,4-6,448000000,19/02/2020,False
+honda,accord,l,2019,True,True,sedan,True,4-6,1319000000,19/02/2020,False
+toyota,corolla,gli,1997,False,False,sedan,True,4-6,135000000,19/02/2020,False
+toyota,innova,2.0g 2.0at,2020,True,True,van,True,8-10,787000000,18/02/2020,True
+mercedes benz,c300,amg,2020,True,True,sedan,True,4-6,1920000000,18/02/2020,True
+mitsubishi,outlander,2020,2020,True,True,suv,True,6-7,950000000,18/02/2020,False
+mercedes benz,glc200,off-road,2020,True,True,suv,True,4-6,2039000000,18/02/2020,True
+mercedes benz,glc200,avantgarde,2020,True,True,suv,True,4-6,1749000000,18/02/2020,True
+mazda,mazda6,luxury,2020,True,True,sedan,True,4-6,819000000,18/02/2020,True
+thaco,town,thaco meadow 85s,2020,True,False,van,False,24-29,1895000000,18/02/2020,True
+mazda,cx_8,deluxe,2020,True,True,suv,True,6-7,1099000000,18/02/2020,True
+hyundai,tucson,2.0,2019,True,True,suv,False,4-6,905000000,18/02/2020,True
+mazda,mazda3,deluxe,2020,True,True,sedan,True,4-6,719000000,18/02/2020,True
+kia,morning,s,2018,False,False,hatchback,True,4-6,368000000,18/02/2020,True
+kia,carens,s,2015,False,False,sedan,True,4-6,390000000,18/02/2020,True
+mazda,cx_5,deluxe,2020,True,True,suv,True,4-6,899000000,18/02/2020,True
+mercedes benz,gl450,gle450 coupe,2016,False,True,coupe,True,4-6,3199000000,18/02/2020,True
+mercedes benz,glc200,2020,2019,True,True,suv,True,4-6,1749000000,18/02/2020,True
+foton,ollin,ollin 350,2020,True,False,convertible,False,3,354000000,17/02/2020,True
+mercedes benz,s450,2019,2019,False,True,sedan,True,4-6,3579000000,17/02/2020,False
+hyundai,accent,1.4 mt base,2019,True,False,sedan,True,4-6,419000000,17/02/2020,True
+mazda,mazda2,luxury,2019,True,True,sedan,True,4-6,534000000,17/02/2020,False
+toyota,rush,1.5g,2019,True,True,suv,True,6-7,668000000,17/02/2020,False
+toyota,rav4,2.5l,2013,False,True,suv,True,4-6,1199000000,17/02/2020,False
+dongben,db,2019,2019,True,False,van,True,2,240000000,17/02/2020,False
+toyota,innova,e,2015,False,False,minivan,True,8-10,495000000,16/02/2020,True
+volkswagen,tiguan,cao cấp đặc biệt,2020,True,True,sedan,True,6-7,1799000000,16/02/2020,False
+volkswagen,tiguan,cao cấp đặc biệt,2020,True,True,suv,True,6-7,1729000000,16/02/2020,False
+ford,f_150,limited,2019,True,True,pickup,True,4-6,4350000000,15/02/2020,False
+ford,f150,f150 raptor,2020,True,True,pickup,True,4-6,4250000000,15/02/2020,False
+land_rover,range_rover,autobiography lwb3.0,2020,True,True,suv,True,4-6,10599000000,15/02/2020,True
+land_rover,range_rover,autobiography lwb3.0,2020,True,True,suv,True,4-6,10600000000,15/02/2020,False
+mercedes benz,glc300,200 4matic,2020,True,True,suv,True,4-6,2019000000,15/02/2020,True
+kia,sedona,2.2at,2019,False,True,suv,False,6-7,1158000000,15/02/2020,True
+hyundai,i30cw,1.6 at,2012,False,True,hatchback,True,4-6,386000000,15/02/2020,False
+toyota,yaris,1.5g,2011,False,True,hatchback,True,4-6,410000000,15/02/2020,False
+lexus,lx_570,lx 570s,2020,True,True,suv,True,6-7,9199000000,15/02/2020,False
+toyota,land_cruiser,vx-r,2011,False,True,suv,True,6-7,2350000000,15/02/2020,False
+thaco,town,thaco tb79s,2020,True,False,van,False,24-29,1610000000,15/02/2020,True
+isuzu,d_max,ls,2014,False,False,pickup,False,4-6,370000000,15/02/2020,False
+hyundai,accent,1.4 mt,2018,False,False,sedan,True,4-6,418000000,15/02/2020,True
+kia,sportage,2.0at,2010,False,True,suv,True,4-6,488000000,15/02/2020,False
+hyundai,i20,1.4 at,2012,False,True,hatchback,True,4-6,326000000,15/02/2020,False
+hyundai,i10,1.2 at,2019,False,True,sedan,True,4-6,389000000,15/02/2020,True
+hyundai,i10,1.2 at,2017,False,True,sedan,True,4-6,368000000,15/02/2020,True
+kia,k3000,2.0at,2016,False,True,sedan,True,6-7,518000000,15/02/2020,True
+kia,cerato,1.6at,2018,False,True,sedan,True,4-6,578000000,15/02/2020,True
+kia,cerato,1.6at,2017,False,True,sedan,True,4-6,548000000,15/02/2020,True
+kia,rio,1.4at,2015,False,True,hatchback,True,4-6,458000000,15/02/2020,False
+hyundai,tucson,1.6 turbo,2019,True,True,suv,True,4-6,912000000,14/02/2020,True
+foton,ollin,ollin 900,2020,True,False,convertible,False,3,560000000,14/02/2020,True
+toyota,innova,e 2.0 mt,2020,True,False,minivan,True,8-10,711000000,14/02/2020,True
+lexus,es,es 250,2017,False,True,sedan,True,4-6,2050000000,14/02/2020,False
+foton,ollin,ollin 720,2019,True,False,convertible,False,3,509000000,14/02/2020,True
+volkswagen,tiguan,tiguan highline,2018,True,True,suv,True,6-7,1729000000,14/02/2020,False
+lexus,rx_400h,2011,2011,True,True,suv,True,6-7,1380000000,13/02/2020,True
+hyundai,elantra,1.6 turbo,2019,True,True,sedan,True,4-6,729000000,13/02/2020,True
+mitsubishi,triton,2019,2019,True,False,pickup,False,4-6,555000000,13/02/2020,False
+hyundai,elantra,1.6,2019,True,True,sedan,True,4-6,620000000,13/02/2020,True
+hyundai,accent,1.4 at đặc biệt,2020,True,True,sedan,True,4-6,540000000,13/02/2020,True
+mercedes benz,glc200,4mt,2020,True,True,suv,True,4-6,2039000000,13/02/2020,True
+mercedes benz,glc200,rwd,2020,True,True,suv,True,4-6,1749000000,13/02/2020,True
+mitsubishi,xpander,2019,2019,True,True,suv,True,6-7,620000000,13/02/2020,False
+toyota,innova,2.0e,2016,False,False,minivan,True,8-10,570000000,13/02/2020,True
+hyundai,i20,active,2015,False,True,suv,True,4-6,460000000,13/02/2020,False
+hyundai,accent,mt base,2019,False,False,sedan,True,4-6,450000000,13/02/2020,True
+hyundai,accent_admire,accent,2020,True,True,sedan,True,4-6,545000000,13/02/2020,True
+mercedes benz,cla200,cla200,2018,False,True,sedan,True,4-6,1499000000,12/02/2020,False
+toyota,innova,v - at,2020,True,True,van,True,6-7,931000000,12/02/2020,True
+toyota,vios,g,2019,False,True,sedan,True,4-6,540000000,12/02/2020,True
+kamaz,65117,6540,2016,True,False,wagon,False,3,1650000000,12/02/2020,False
+toyota,innova,e,2017,False,False,van,True,8-10,615000000,12/02/2020,True
+toyota,innova,igm - at,2020,True,True,van,True,8-10,819000000,12/02/2020,True
+toyota,innova,g - at,2020,True,True,van,True,8-10,787000000,12/02/2020,True
+chevrolet,captiva,ltz,2008,False,True,suv,True,6-7,285000000,12/02/2020,True
+toyota,vios,e - cvt,2020,True,True,sedan,True,4-6,520000000,12/02/2020,True
+hyundai,solati,2019,2019,True,False,minivan,False,8-10,1500000000,12/02/2020,True
+kia,cerato,1.6 cao cấp,2020,True,True,sedan,True,4-6,619000000,12/02/2020,True
+peugeot,3008,1.6l,2019,True,True,suv,True,4-6,1129000000,12/02/2020,True
+volkswagen,polo,new,2020,True,True,sedan,True,4-6,699000000,11/02/2020,False
+toyota,vios,e mt,2020,True,False,sedan,True,4-6,470000000,11/02/2020,True
+kia,sedona,dầu,2020,True,True,minivan,False,6-7,1099000000,11/02/2020,True
+ford,everest,everest,2020,True,False,suv,False,6-7,999000000,11/02/2020,False
+kia,sedona,dat deluxe,2020,True,True,van,False,4-6,1099000000,11/02/2020,True
+hyundai,elantra,1.6 at,2020,True,True,sedan,True,4-6,635000000,11/02/2020,True
+ford,everest,titanium 2.0l,2019,True,True,suv,False,6-7,1399000000,11/02/2020,False
+mazda,cx_8,luxury 2wd,2020,True,True,suv,True,6-7,1149000000,11/02/2020,True
+mazda,cx_8,premium awd,2020,True,True,suv,True,6-7,1299000000,11/02/2020,True
+hino,500,new,2020,True,False,sedan,False,3,1499000000,11/02/2020,True
+mazda,cx_5,deluxe,2020,True,True,suv,True,4-6,899000000,10/02/2020,True
+mercedes benz,e300,e300 amg,2018,False,True,sedan,True,4-6,2180000000,10/02/2020,True
+ford,ranger,2020,2020,True,False,pickup,False,4-6,822000000,10/02/2020,False
+honda,city,l,2020,True,True,sedan,True,4-6,559000000,10/02/2020,False
+thaco,forland,"xe ben 2,5 tấn",2019,True,False,pickup,False,2,304000000,10/02/2020,True
+thaco,town,"tb79s, tb85s",2020,True,False,minivan,False,24-29,1610000000,10/02/2020,True
+honda,cr_v,"e, g, l",2020,True,True,suv,True,6-7,983000000,10/02/2020,False
+hyundai,santa_fe,2.2 at đặc biệt,2019,True,True,suv,False,6-7,1149000000,09/02/2020,True
+mazda,3,1.5 facelift,2020,True,True,sedan,True,4-6,649000000,09/02/2020,True
+mazda,cx_5,suv,2019,True,True,suv,True,4-6,859000000,09/02/2020,True
+mazda,3,sedan,2020,True,True,sedan,True,4-6,709000000,09/02/2020,True
+mitsubishi,mirage,at,2016,False,True,hatchback,True,4-6,400000000,09/02/2020,False
+mazda,3,sedan,2019,True,True,sedan,True,4-6,649000000,09/02/2020,True
+mercedes benz,c300,c300 amg,2018,False,True,sedan,True,4-6,1669000000,09/02/2020,True
+bmw,320i,320i,2007,False,True,sedan,True,4-6,300000000,09/02/2020,False
+mazda,bt_50,bán tải,2019,True,True,pickup,False,4-6,590000000,09/02/2020,False
+mazda,2,sedan,2019,True,True,sedan,True,4-6,594000000,09/02/2020,False
+mazda,cx_5,2.5,2019,True,True,suv,True,4-6,929000000,09/02/2020,True
+mazda,cx_8,2.5,2019,True,True,suv,True,6-7,1149000000,09/02/2020,True
+honda,cr_v,2.4l số tự động,2010,False,True,suv,True,4-6,485000000,09/02/2020,False
+toyota,vios,vios g,2020,True,True,sedan,True,4-6,570000000,09/02/2020,True
+bmw,320,320,2016,False,True,sedan,True,4-6,1039000000,08/02/2020,True
+hyundai,accent,blu 1.4 mt,2016,False,False,sedan,True,4-6,375000000,08/02/2020,False
+ford,escape,xlt 2.3l,2009,False,True,suv,True,4-6,345000000,08/02/2020,True
+toyota,fortuner,2.5g,2016,False,False,suv,False,6-7,745000000,08/02/2020,True
+dongben,db,2019,2019,True,False,van,True,4-6,293000000,08/02/2020,True
+toyota,land_cruiser,vx,2012,False,True,suv,True,6-7,1950000000,07/02/2020,True
+ford,tourneo,2.0,2020,True,True,minivan,True,8-10,929000000,07/02/2020,True
+ford,everest,2.0l titanium,2020,True,True,suv,True,6-7,1339000000,07/02/2020,True
+ford,ranger,2020,2020,True,True,suv,False,4-6,616000000,07/02/2020,False
+isuzu,samco,3.0,2015,False,False,coupe,False,24-29,595000000,07/02/2020,True
+suzuki,super_carry_blind_van,1.0 mt,2020,True,False,van,True,2,293000000,07/02/2020,True
+kia,k250,hàn quốc,2019,True,False,pickup,False,3,387000000,07/02/2020,True
+chevrolet,colorado,ltz 2.5 at 4×2,2018,False,True,pickup,False,4-6,559000000,06/02/2020,False
+toyota,innova,e - mt,2017,False,False,van,True,8-10,625000000,06/02/2020,True
+mazda,cx_5,signature 2.5at awd,2019,False,True,suv,True,4-6,1090000000,06/02/2020,True
+toyota,innova,g -at,2020,True,True,van,True,8-10,787000000,06/02/2020,True
+kia,k,3,2014,False,True,sedan,True,4-6,462000000,06/02/2020,True
+mazda,cx_8,premium,2019,True,True,suv,True,6-7,1249000000,06/02/2020,True
+honda,civic,ca,2020,True,True,sedan,True,4-6,903000000,05/02/2020,False
+honda,city,cao cấp,2020,True,True,sedan,True,4-6,599000000,05/02/2020,True
+hyundai,santa_fe,at,2013,False,True,suv,True,6-7,735000000,05/02/2020,True
+mazda,cx_8,deluxe,2019,True,True,suv,True,6-7,1099000000,05/02/2020,True
+thaco,towner,thaco towner 990,2019,True,False,convertible,True,2,216000000,05/02/2020,True
+toyota,fortuner,2.4 4x2 mt,2020,True,False,suv,False,6-7,983000000,05/02/2020,True
+toyota,camry,2.5q,2020,True,True,sedan,True,4-6,1235000000,05/02/2020,True
+lexus,lx,lx 350,2017,False,True,suv,True,6-7,3450000000,05/02/2020,False
+volkswagen,tiguan,nâng cấp đặc biệt,2019,True,True,suv,True,6-7,1749000000,05/02/2020,False
+hyundai,elantra,2.0,2019,True,True,sedan,True,4-6,660000000,05/02/2020,True
+kia,sedona,dat luxury,2020,True,True,minivan,False,6-7,1189000000,05/02/2020,True
+kia,morning,2016,2016,False,False,hatchback,True,4-6,280000000,05/02/2020,True
+kia,k250,5,2020,True,False,wagon,False,3,387000000,05/02/2020,True
+toyota,vios,1.5e,2020,True,False,sedan,True,4-6,490000000,05/02/2020,True
+toyota,wigo,1.2at,2019,True,True,hatchback,True,4-6,390000000,05/02/2020,False
+mazda,cx_5,premium,2020,True,True,suv,True,4-6,949000000,05/02/2020,True
+mitsubishi,pajero_sport,4wd,2014,False,True,suv,True,6-7,656000000,05/02/2020,True
+mazda,cx_5,2.5,2018,False,True,suv,True,4-6,915000000,05/02/2020,True
+hyundai,tucson,2.0 bản đặc biệt,2015,False,True,suv,True,6-7,780000000,05/02/2020,False
+lexus,gx_470,at,2007,False,True,suv,True,6-7,1050000000,05/02/2020,False
+lexus,gx_460,at,2010,False,True,suv,True,6-7,2100000000,05/02/2020,False
+mazda,3,at,2017,False,True,suv,True,4-6,580000000,05/02/2020,True
+mitsubishi,xpander,mt,2018,False,False,suv,True,6-7,565000000,05/02/2020,False
+hyundai,i10,at,2018,False,True,sedan,True,4-6,380000000,05/02/2020,True
+chevrolet,cruze,at,2016,False,True,sedan,True,4-6,390000000,05/02/2020,True
+mitsubishi,xpander,1.5,2018,False,True,suv,True,6-7,655000000,05/02/2020,False
+hyundai,elantra_gt,at,2019,False,True,sedan,True,4-6,635000000,05/02/2020,True
+kia,morning,s,2018,False,True,hatchback,True,4-6,378000000,05/02/2020,True
+hyundai,tucson,đầy đủ phiên bản,2020,True,True,suv,True,4-6,842000000,04/02/2020,True
+hyundai,elantra,đầy đủ phiên bản,2020,True,True,sedan,True,4-6,698000000,04/02/2020,True
+hyundai,accent,đầy đủ phiên bản,2019,True,True,sedan,True,4-6,425000000,04/02/2020,True
+hyundai,i10,đầy đủ phiên bản,2020,True,False,hatchback,True,4-6,354000000,04/02/2020,True
+hyundai,kona,đặc biệt,2020,True,True,suv,True,4-6,654000000,04/02/2020,True
+land_rover,range_rover_vogue,"hse dynamic, full op",2013,False,True,suv,True,4-6,1490000000,04/02/2020,False
+mercedes benz,glc300,4matic,2019,True,True,suv,True,4-6,2949000000,04/02/2020,False
+suzuki,apv,2019,2020,True,False,suv,True,6-7,499000000,04/02/2020,False
+kia,sedona,2.2l luxury,2020,True,True,minivan,False,6-7,1209000000,03/02/2020,True
+thaco,towner,800,2019,True,False,pickup,True,2,158000000,03/02/2020,False
+ford,transit,ford transit cao cấp,2020,True,False,van,False,16,685000000,03/02/2020,True
+thaco,town,tb85s,2020,True,False,minivan,False,24-29,1935000000,03/02/2020,True
+ford,ranger,raptor,2019,True,True,pickup,False,4-6,1159000000,03/02/2020,False
+ford,explorer,2.3l limited,2020,True,True,suv,True,6-7,2079000000,03/02/2020,False
+mercedes benz,glc250,4matic,2020,True,True,suv,True,4-6,1989000000,02/02/2020,True
+mercedes benz,glc300,glc300,2019,False,True,suv,True,4-6,2559000000,02/02/2020,False
+mercedes benz,glc300,glc300 coupe,2019,False,True,coupe,True,4-6,2949000000,02/02/2020,False
+mazda,cx_8,luxury,2019,True,True,suv,True,6-7,1069000000,02/02/2020,True
+mercedes benz,c300,c300 amg,2017,False,True,sedan,True,4-6,1650000000,01/02/2020,True
+mercedes benz,c300,c300 amg,2017,False,True,sedan,True,4-6,1649000000,01/02/2020,True
+mercedes benz,c300,c300 amg,2018,False,True,sedan,True,4-6,1730000000,01/02/2020,True
+mercedes benz,c200,c200,2018,False,True,sedan,True,4-6,1630000000,01/02/2020,True
+mercedes benz,c300,amg,2017,False,True,sedan,True,4-6,1680000000,01/02/2020,True
+mercedes benz,gla45,gla45 amg 4matic,2015,False,True,suv,True,4-6,1750000000,01/02/2020,False
+mercedes benz,gla45,gla45 amg,2015,False,True,suv,True,4-6,1750000000,01/02/2020,False
+kia,cerato,1.6 at luxury,2019,True,True,sedan,True,4-6,635000000,01/02/2020,True
+mazda,6,luxury,2019,True,True,sedan,True,4-6,819000000,01/02/2020,True
+thaco,aumark,foton m4,2019,True,False,pickup,False,3,445000000,01/02/2020,True
+thaco,auman,c160.e4,2019,True,False,pickup,False,3,749000000,01/02/2020,True
+kia,soluto,deluxe,2020,True,False,sedan,True,4-6,399000000,31/01/2020,True
+mazda,cx_8,2.5,2020,True,True,suv,True,6-7,1149000000,31/01/2020,True
+kia,soluto,at,2019,True,True,sedan,True,4-6,455000000,29/01/2020,True
+hyundai,solati,ghế universe 2020,2019,True,False,van,False,16,940000000,22/01/2020,True
+hyundai,solati,limited,2019,True,False,minivan,False,16,940000000,22/01/2020,True
+toyota,camry,2.0e,2018,False,True,sedan,True,4-6,880000000,20/01/2020,True
+toyota,vios,e 1.5mt,2018,False,False,sedan,True,4-6,438000000,19/01/2020,True
+mazda,bt_50,new,2019,True,True,pickup,False,4-6,580000000,18/01/2020,False
+ford,ecosport,1.5 titanium,2020,True,True,suv,True,4-6,583000000,18/01/2020,True
+hyundai,solati,limousine,2019,True,False,van,False,8-10,1419000000,17/01/2020,False
+honda,civic,cao cấp,2020,True,True,sedan,True,4-6,903000000,16/01/2020,False
+mercedes benz,other,e 200 sport,2020,True,True,sedan,True,4-6,2294000000,15/01/2020,True
+suzuki,super_carry_pro,2019,2019,True,False,coupe,True,2,324000000,14/01/2020,False
+mercedes benz,c300,c300 amg,2017,False,True,sedan,True,4-6,1620000000,14/01/2020,True
+toyota,vios,1.5mt,2018,False,False,sedan,True,4-6,448000000,13/01/2020,True
+mazda,2,1.5 sedan,2020,True,True,sedan,True,4-6,479000000,13/01/2020,False
+mercedes benz,c300,2020,2020,True,True,sedan,True,4-6,1889000000,09/01/2020,True
+kia,sedona,dầu,2020,True,True,minivan,False,6-7,1059000000,09/01/2020,True
+mazda,cx_5,2.0l premium,2020,True,True,suv,True,6-7,989000000,08/01/2020,True
+mazda,cx_5,deluxe,2020,True,True,suv,True,6-7,899000000,08/01/2020,True
+mazda,6,luxury,2020,True,True,sedan,True,4-6,899000000,08/01/2020,True
+mazda,3,1.5 hatchback,2020,True,True,hatchback,True,4-6,669000000,08/01/2020,True
+mazda,3,1.5 sedan,2020,True,True,sedan,True,4-6,649000000,08/01/2020,True
+mazda,2,1.5g luxury,2020,True,True,sedan,True,4-6,534000000,08/01/2020,True
+mercedes benz,c200,c200 2019,2019,False,True,sedan,True,4-6,1459000000,08/01/2020,True
+hyundai,i10,1.2 mt full,2019,True,False,sedan,True,4-6,385000000,08/01/2020,True
+kia,k250,kia newfrontier k250,2018,True,False,pickup,False,3,370000000,08/01/2020,True
+mitsubishi,triton,mivec 2.5 at 4×4,2017,False,True,pickup,False,4-6,639000000,07/01/2020,False
+mercedes benz,s450,luxury,2019,True,True,sedan,True,4-6,4969000000,07/01/2020,True
+toyota,fortuner,2.4g at,2020,True,False,suv,False,6-7,1096000000,07/01/2020,True
+toyota,fortuner,2.4g mt,2020,True,False,suv,False,6-7,1033000000,07/01/2020,True
+mercedes benz,c300,facelift,2019,True,True,sedan,True,4-6,1929000000,07/01/2020,True
+dongben,db,truck,2019,True,True,minivan,True,4-6,100000000,07/01/2020,True
+mercedes benz,glc300,2020,2019,True,True,suv,True,4-6,2559000000,07/01/2020,False
+mercedes benz,s450,s450l,2018,False,True,sedan,True,4-6,4200000000,07/01/2020,True
+mercedes benz,c200,exclusive 2019,2019,False,True,sedan,True,4-6,1639000000,06/01/2020,True
+kia,sedona,platinum d,2020,True,True,minivan,False,6-7,1059000000,06/01/2020,True
+mercedes benz,vito,vito121,2016,False,True,van,True,4-6,1450000000,06/01/2020,False
+mercedes benz,c200,c200,2019,False,True,sedan,True,4-6,1450000000,04/01/2020,True
+mercedes benz,e200,e200,2019,False,True,sedan,True,4-6,2060000000,04/01/2020,True
+kia,morning,at,2018,True,True,hatchback,True,4-6,339000000,03/01/2020,True
+thaco,auman,c160 - c160b,2020,True,False,convertible,False,2,749000000,03/01/2020,True
+mercedes benz,e200,2018,2018,False,True,sedan,True,4-6,1739000000,03/01/2020,False
+hyundai,santa_fe,2.4 at premium,2019,True,True,suv,True,6-7,1185000000,03/01/2020,True
+mazda,cx_5,luxury,2019,True,True,suv,True,4-6,859000000,03/01/2020,True
+mazda,3,luxury,2019,True,True,sedan,True,4-6,699000000,03/01/2020,True
+thaco,ollin,ollin720.e4,2019,True,False,pickup,False,3,269000000,03/01/2020,True
+thaco,ollin,ollin350.e4,2019,True,False,pickup,False,3,259000000,03/01/2020,True
+volkswagen,polo,model giá tốt,2020,True,True,hatchback,True,4-6,695000000,01/01/2020,False
+toyota,innova,e 2.0 mt,2017,False,False,suv,True,8-10,599000000,31/12/2019,True
+ford,everest,titanium_trend_ambi,2020,True,True,suv,False,6-7,885000000,30/12/2019,False
+ford,ecosport,titanium_trend_ambi,2020,True,True,suv,True,4-6,450000000,30/12/2019,True
+toyota,innova,e 2.0 mt,2017,False,True,suv,True,8-10,668000000,29/12/2019,True
+mercedes benz,s450,s450,2019,False,True,suv,True,4-6,3169000000,29/12/2019,True
+ford,tourneo,trend,2019,True,True,minivan,True,6-7,999000000,29/12/2019,True
+ford,explorer,2.3l limited,2019,True,True,suv,True,6-7,2138000000,29/12/2019,True
+mercedes benz,glc250,glc250,2017,False,True,suv,True,4-6,1589000000,28/12/2019,True
+hyundai,santa_fe,2.4 at,2019,True,True,suv,True,6-7,995000000,27/12/2019,True
+hyundai,santa_fe,2.2 at,2019,True,True,suv,False,6-7,1054000000,27/12/2019,True
+mercedes benz,c200,c200,2018,False,True,sedan,True,4-6,1258000000,26/12/2019,True
+toyota,rush,số tự động,2000,True,True,suv,True,6-7,668000000,26/12/2019,False
+hyundai,i10,1.2 mt full,2019,True,False,sedan,True,4-6,345000000,25/12/2019,True
+mitsubishi,fuso_canter,12.8,2019,True,False,wagon,False,3,1345000000,25/12/2019,True
+kia,k250,thùng kín,2020,True,False,pickup,False,3,387000000,25/12/2019,True
+kia,k200,thùng kín,2019,True,False,pickup,False,3,335000000,25/12/2019,True
+suzuki,supper_carry_pro,2019,2019,True,False,pickup,True,2,324500000,24/12/2019,False
+mazda,cx_5,2.0 luxury,2020,True,True,suv,True,4-6,899000000,23/12/2019,True
+toyota,land_cruiser,vx,2012,False,True,suv,True,6-7,1950000000,23/12/2019,False
+mini,cooper,s,2015,False,True,coupe,True,4-6,1220000000,23/12/2019,False
+mazda,cx_5,2.0 deluxe,2020,True,True,suv,True,4-6,899000000,23/12/2019,True
+mazda,cx_5,2.0 luxury,2020,True,True,suv,True,4-6,949000000,23/12/2019,True
+mazda,cx_5,2.0 premium,2020,True,True,suv,True,4-6,989000000,23/12/2019,True
+toyota,sienna,limited,2020,True,True,minivan,True,6-7,4380000000,21/12/2019,False
+ford,f_150,f150 raptor,2019,True,True,pickup,True,4-6,4250000000,21/12/2019,False
+lexus,lx_570,lx 570s mbs 4 ghế,2020,True,True,suv,True,4-6,10450000000,21/12/2019,False
+kia,k2700s,k200,2019,True,False,pickup,False,3,335000000,21/12/2019,True
+mercedes benz,glc200,2020,2020,True,True,suv,True,4-6,2039000000,20/12/2019,True
+mercedes benz,c200,c200,2019,False,True,sedan,True,4-6,1630000000,20/12/2019,True
+honda,city,cvt,2019,True,True,sedan,True,4-6,529000000,20/12/2019,False
+ford,ranger,2.0,2019,True,True,pickup,False,4-6,1183000000,20/12/2019,False
+toyota,vios,e cvt,2019,True,True,sedan,True,4-6,520000000,20/12/2019,True
+mercedes benz,s450,s450,2018,False,True,sedan,True,4-6,4539000000,19/12/2019,True
+ford,everest,titanium 2.0 bitubor,2019,True,True,suv,True,6-7,1399000000,19/12/2019,False
+ford,ranger,wildtrack 2.0 4x4 at,2019,True,True,pickup,False,4-6,918000000,19/12/2019,False
+ford,ecosport,tiatnium 1.0l,2019,True,True,suv,True,4-6,679000000,19/12/2019,True
+mercedes benz,s450,luxury,2020,True,True,sedan,True,4-6,4969000000,19/12/2019,True
+mercedes benz,e200,sport 2020,2020,True,True,sedan,True,4-6,2317000000,19/12/2019,True
+thaco,auman,c160.e4,2019,True,False,pickup,False,2,239000000,19/12/2019,True
+mitsubishi,pajero_sport,4×2 at,2019,True,False,suv,False,6-7,990000000,18/12/2019,True
+mitsubishi,triton,mt,2019,True,False,pickup,False,4-6,600000000,18/12/2019,True
+mitsubishi,attrage,1.2 cvt,2019,True,True,sedan,True,4-6,405000000,18/12/2019,True
+mitsubishi,mirage,1.2 cvt,2019,True,True,hatchback,True,4-6,350000000,18/12/2019,True
+mitsubishi,outlander,2.0 std,2020,True,True,suv,True,6-7,825000000,18/12/2019,True
+mitsubishi,outlander,2.0 cvt pre,2020,True,True,suv,True,6-7,950000000,18/12/2019,True
+mitsubishi,xpander,mt,2019,True,True,suv,True,6-7,550000000,18/12/2019,True
+kia,morning,số tự động,2019,True,True,hatchback,True,4-6,329000000,18/12/2019,True
+kia,cerato,số sàn,2020,True,False,sedan,True,4-6,549000000,18/12/2019,True
+kia,frontier,k200,2020,True,False,pickup,False,3,335000000,17/12/2019,True
+mercedes benz,g63,g63 amg 2020,2020,True,True,suv,True,4-6,12500000000,17/12/2019,False
+mercedes benz,s450,s450l,2017,False,True,sedan,True,4-6,3690000000,13/12/2019,True
+mercedes benz,c300,mới,2020,True,True,sedan,True,4-6,1897000000,11/12/2019,True
+mercedes benz,e300,mới,2020,True,True,sedan,True,4-6,2920000000,11/12/2019,True
+thaco,town,thaco garden 79s,2020,True,False,convertible,False,24-29,1610000000,10/12/2019,True
+mercedes benz,gle450,gle 450 2020,2019,True,True,suv,True,6-7,4369000000,10/12/2019,False
+hyundai,i10,i10 1.2mt full,2020,True,False,hatchback,True,4-6,347000000,10/12/2019,True
+hyundai,i10,i10 1.2mt full,2020,True,False,hatchback,True,4-6,355000000,10/12/2019,True
+mercedes benz,gls400,gls400,2016,False,True,suv,True,4-6,3580000000,10/12/2019,False
+toyota,hilux,đặc biệt,2019,True,True,pickup,False,4-6,662000000,10/12/2019,False
+ford,everest,titanium,2020,True,True,suv,False,6-7,1105000000,09/12/2019,False
+bmw,420i,gran couper,2016,False,True,coupe,True,4-6,1500000000,09/12/2019,False
+mazda,cx_5,signature pre high,2019,True,True,suv,True,4-6,1069000000,06/12/2019,True
+lexus,rx_350l,rx350l,2019,True,True,suv,True,6-7,4680000000,06/12/2019,False
+thaco,forland,fd250.e4,2018,True,False,pickup,False,2,304000000,05/12/2019,True
+mercedes benz,e250,e250,2019,False,True,sedan,True,4-6,2290000000,04/12/2019,False
+toyota,land_cruiser,2010,2010,False,True,suv,True,6-7,1850000000,04/12/2019,False
+lexus,lx_570,2017,2017,False,True,suv,True,4-6,6750000000,04/12/2019,False
+ford,ecosport,titanium,2020,True,True,pickup,True,4-6,605000000,02/12/2019,True
+mazda,6,2.0 deluxe,2020,True,True,sedan,True,4-6,819000000,02/12/2019,True
+mazda,2,1.5 sport luxury,2020,True,True,hatchback,True,4-6,594000000,02/12/2019,False
+hyundai,new_porter_h150,h150,2019,True,False,pickup,False,3,360000000,02/12/2019,True
+lexus,lx_570,lx 570,2020,True,True,suv,True,6-7,9199000000,02/12/2019,False
+toyota,rush,g,2020,True,True,suv,True,6-7,668000000,02/12/2019,False
+toyota,camry,2.5q,2019,True,True,sedan,True,4-6,1243000000,02/12/2019,False
+mazda,6,2.5,2020,True,True,sedan,True,4-6,899000000,02/12/2019,True
+mazda,3,1.5 at hb,2020,True,True,hatchback,True,4-6,669000000,02/12/2019,True
+mazda,3,2.0 premium,2020,True,True,sedan,True,4-6,750000000,02/12/2019,True
+mazda,3,1.5 sport luxury,2020,True,True,hatchback,True,4-6,699000000,02/12/2019,True
+mazda,2,hatchback premium se,2020,True,True,hatchback,True,4-6,514000000,02/12/2019,True
+mazda,2,sedan deluxe,2020,True,True,sedan,True,4-6,514000000,02/12/2019,True
+mazda,2,sedan premium,2020,True,True,sedan,True,4-6,564000000,02/12/2019,True
+mazda,cx_5,luxury (2.0l),2020,True,True,suv,True,6-7,949000000,02/12/2019,True
+mazda,cx_5,deluxe (2.0l),2020,True,True,suv,True,6-7,899000000,02/12/2019,True
+mazda,cx_5,premium (2.0l),2020,True,True,suv,True,6-7,989000000,02/12/2019,True
+hyundai,accent,at,2019,True,True,sedan,True,4-6,498000000,02/12/2019,True
+mercedes benz,e300,mới,2020,True,True,sedan,True,4-6,2833000000,30/11/2019,True
+hyundai,accent,ath,2019,True,True,sedan,True,4-6,539000000,30/11/2019,True
+hyundai,elantra,2.0 at,2019,True,True,sedan,True,4-6,664000000,30/11/2019,True
+suzuki,ciaz,2019,2019,True,True,sedan,True,4-6,499000000,29/11/2019,False
+kia,morning,at,2019,True,True,hatchback,True,4-6,329000000,29/11/2019,True
+hyundai,santa_fe,2.4 xăng đặc biệt,2019,True,True,suv,True,6-7,1135000000,28/11/2019,True
+hyundai,tucson,2.0l xăng đặc biệt,2019,True,True,suv,True,4-6,878000000,28/11/2019,True
+hyundai,tucson,2.0l dầu đặc biệt,2019,True,True,suv,False,4-6,799000000,28/11/2019,True
+hyundai,kona,2.0 tiêu chuẩn,2019,True,True,suv,True,6-7,606000000,28/11/2019,True
+hyundai,kona,at đặc biệt,2019,True,True,suv,True,4-6,650000000,28/11/2019,True
+peugeot,508,facelift,2015,True,True,sedan,True,4-6,980000000,28/11/2019,False
+peugeot,traveller,premium,2019,True,True,minivan,False,6-7,2249000000,28/11/2019,True
+peugeot,5008,2018,2018,True,True,suv,True,6-7,1199000000,28/11/2019,True
+faw,6t,truck,2017,True,False,pickup,False,3,150000000,27/11/2019,False
+toyota,camry,2.5q,2019,True,True,sedan,True,4-6,1235000000,26/11/2019,False
+bmw,x7,x7 xdrive40i,2020,True,True,suv,True,6-7,7150000000,23/11/2019,False
+mercedes benz,e200,exclusive,2019,True,True,sedan,True,4-6,2130000000,22/11/2019,True
+toyota,fortuner,2.4g,2019,True,False,suv,False,6-7,956000000,21/11/2019,True
+ford,ranger,xlt,2020,True,True,pickup,False,4-6,730000000,20/11/2019,False
+ford,ranger,limited 2020 4x4,2020,True,True,pickup,False,4-6,799000000,20/11/2019,False
+ford,everest,titanium,2020,True,True,suv,False,6-7,949000000,20/11/2019,False
+suzuki,super_carry_truck,2019,2019,True,False,pickup,True,2,282000000,19/11/2019,True
+mercedes benz,glc300,4 matic,2016,False,True,suv,True,6-7,1680000000,19/11/2019,False
+mercedes benz,glc300,glc 300,2019,True,True,suv,True,4-6,2289000000,19/11/2019,True
+mercedes benz,c200,c 200,2020,True,True,sedan,True,4-6,1499000000,18/11/2019,True
+suzuki,super_carry_blind_van,2019,2019,True,False,van,True,2,293000000,17/11/2019,True
+land_rover,range_rover_sport,autobiography,2015,False,True,suv,True,6-7,3550000000,15/11/2019,False
+land_rover,range_rover_vogue,2015,2014,False,True,suv,True,6-7,1580000000,14/11/2019,False
+thaco,towner,xe tải towner,2018,True,False,pickup,True,2,156000000,14/11/2019,True
+mercedes benz,s500,s500l,2014,False,True,sedan,True,4-6,2850000000,12/11/2019,False
+toyota,innova,số sàn,2020,True,False,suv,True,8-10,706000000,12/11/2019,True
+toyota,vios,vios e mt,2020,True,False,sedan,True,4-6,470000000,12/11/2019,True
+toyota,innova,mới,2020,True,False,suv,True,8-10,706000000,10/11/2019,True
+thaco,auman,c160,2018,True,False,pickup,False,2,689000000,07/11/2019,True
+land_rover,range_rover,hse,2020,True,True,suv,True,4-6,8100000000,06/11/2019,False
+volkswagen,new_beetle,2.5 at,2008,False,True,coupe,True,4-6,460000000,02/11/2019,False
+toyota,sienna,le 3.5,2011,False,True,van,True,6-7,1350000000,02/11/2019,False
+toyota,land_cruiser,gx 4.5,2005,False,False,suv,True,8-10,680000000,02/11/2019,False
+audi,q7,3.0 at,2014,False,True,sedan,True,6-7,1790000000,02/11/2019,False
+ford,explorer,limited 2.3l ecoboos,2017,False,True,suv,True,6-7,1720000000,02/11/2019,False
+lexus,gx_460,2013,2013,False,True,suv,True,6-7,3250000000,02/11/2019,False
+volkswagen,touareg,3.6 at,2013,False,True,suv,True,6-7,1150000000,02/11/2019,False
+audi,q7,3.6 at,2010,False,True,suv,True,6-7,1100000000,02/11/2019,False
+infiniti,q,qx 70 3.7 awd,2016,True,True,suv,True,6-7,2150000000,02/11/2019,False
+honda,odyssey,2.4 at,2016,False,True,suv,True,8-10,1450000000,02/11/2019,False
+lexus,ls_600h_l,2008,2008,False,True,sedan,True,4-6,1750000000,02/11/2019,False
+mini,cooper_countryman,2015,2014,False,True,hatchback,True,4-6,1190000000,02/11/2019,False
+jaguar,xf,2.0 at,2014,False,True,sedan,True,4-6,1520000000,02/11/2019,False
+lexus,nx_200t,2016,2016,False,True,suv,True,4-6,2250000000,02/11/2019,False
+mercedes benz,e400,amg,2014,False,True,sedan,True,4-6,1580000000,02/11/2019,True
+lexus,lx_570,2008,2008,False,True,sedan,True,6-7,2350000000,02/11/2019,False
+hyundai,equus,vs 380,2011,False,True,sedan,True,4-6,1350000000,02/11/2019,False
+ford,mustang,ecoboost fastback,2017,False,True,coupe,True,2,2150000000,02/11/2019,False
+lexus,lx_570,mbs 4 ghế thương gia,2020,True,True,suv,True,4-6,10450000000,02/11/2019,False
+honda,city,cvt,2019,True,True,sedan,True,4-6,539000000,02/11/2019,False
+hyundai,kona,1.6turbo,2020,True,True,suv,True,4-6,710000000,31/10/2019,True
+toyota,fortuner,2.4g mt 4x2,2019,True,False,suv,False,6-7,933000000,31/10/2019,True
+hyundai,accent,1.4at,2020,True,True,sedan,True,4-6,499000000,29/10/2019,True
+thaco,town,tb120sl,2018,True,False,van,False,24-29,3690000000,28/10/2019,True
+thaco,town,tb79s,2018,True,False,van,False,24-29,1560000000,28/10/2019,True
+mitsubishi,canter_4_99,1 tấn 9,2019,True,False,coupe,False,3,597000000,26/10/2019,False
+ford,ecosport,1.5 titanium,2019,True,True,suv,True,4-6,588000000,24/10/2019,True
+ford,ecosport,1.5 titanium,2019,True,True,suv,True,4-6,450000000,24/10/2019,True
+ford,transit,limousin 10 chỗ 2019,2020,True,False,van,False,8-10,1065000000,24/10/2019,True
+ford,explorer,2.3l limited,2019,True,True,suv,True,6-7,1930000000,24/10/2019,False
+ford,explorer,2.3l limited,2019,True,True,suv,True,6-7,1999000000,24/10/2019,False
+ford,ranger,raptor,2019,True,True,pickup,False,4-6,1168000000,24/10/2019,False
+ford,transit,ford transit cao cấp,2020,True,False,van,False,16,740000000,24/10/2019,True
+lexus,lx_570,lx570s mbs,2019,True,True,suv,True,4-6,10580000000,22/10/2019,False
+ford,ranger,xls,2020,True,True,pickup,False,4-6,616000000,22/10/2019,False
+ford,ecosport,titanium,2020,True,True,suv,True,4-6,545000000,22/10/2019,True
+ford,ranger,wildtrak 4x4,2020,True,True,pickup,False,4-6,833000000,22/10/2019,False
+volkswagen,tiguan,luxury,2020,True,True,suv,True,6-7,1799000000,21/10/2019,False
+ford,transit,2019 combo luxury,2020,True,False,van,False,16,760000000,15/10/2019,True
+ford,transit,svp full option,2020,True,False,van,False,16,710000000,15/10/2019,True
+hyundai,elantra,elantra 1.6mt,2020,True,False,sedan,True,4-6,550000000,15/10/2019,True
+hyundai,elantra,elantra 1.6mt,2020,True,False,sedan,True,4-6,545000000,15/10/2019,True
+hyundai,elantra,elantra 1.6mt,2020,True,False,sedan,True,4-6,555000000,15/10/2019,True
+hyundai,i10,grand i10 1.2 full,2020,True,False,hatchback,True,4-6,347000000,15/10/2019,True
+hyundai,i10,grand i10 1.2 sedan,2020,True,False,sedan,True,4-6,335000000,15/10/2019,True
+hyundai,i10,grand i10 1.2mt full,2020,True,False,hatchback,True,4-6,355000000,15/10/2019,True
+mitsubishi,xpander,mt,2019,True,True,suv,True,6-7,620000000,14/10/2019,False
+mitsubishi,pajero_sport,ps g 4x2 d2 at,2019,True,True,suv,False,6-7,1063000000,11/10/2019,True
+mitsubishi,pajero_sport,ps g 4×2 at,2019,True,True,suv,False,6-7,1093000000,11/10/2019,True
+ford,ranger-raptor,2.0,2019,True,True,pickup,False,4-6,1148000000,11/10/2019,False
+mazda,2,new,2020,True,True,sedan,True,4-6,479000000,11/10/2019,False
+toyota,wigo,1.2at,2019,True,True,hatchback,True,4-6,395000000,11/10/2019,False
+hyundai,i10,1.2 mt,2020,True,False,sedan,True,4-6,375000000,11/10/2019,True
+hyundai,i10,1.2 mt,2020,True,False,sedan,True,4-6,380000000,11/10/2019,True
+hyundai,accent,accent 1.4 mt,2020,True,False,sedan,True,4-6,465000000,11/10/2019,True
+hyundai,accent,1.4 at,2020,True,True,sedan,True,4-6,499000000,10/10/2019,True
+hyundai,santa_fe,2.2 máy dầu,2019,True,True,suv,False,6-7,1155000000,10/10/2019,True
+hyundai,tucson,2.0,2020,True,True,suv,True,4-6,759000000,10/10/2019,True
+hyundai,kona,kona 2.0at,2020,True,True,suv,True,4-6,606000000,09/10/2019,True
+hyundai,grand,grand i10 1.2 mt,2020,True,False,hatchback,True,4-6,350000000,08/10/2019,True
+porsche,panamera,3.6l,2010,False,True,sedan,True,4-6,2000000000,06/10/2019,False
+lexus,lx,570,2019,True,True,suv,True,8-10,9080000000,05/10/2019,False
+lexus,lx,570s supper sport,2019,True,True,suv,True,8-10,9080000000,05/10/2019,False
+thaco,town,tb79s,2019,True,False,van,False,24-29,1590000000,02/10/2019,True
+mercedes benz,e300,e 300 amg 2019,2019,True,True,sedan,True,4-6,2920000000,30/09/2019,True
+mercedes benz,s500,s500,2016,False,True,sedan,True,4-6,4050000000,27/09/2019,False
+hyundai,solati,2.5l máy dầu,2019,True,False,wagon,False,16,975000000,25/09/2019,True
+hyundai,i10,1.2 số sàn,2020,True,False,sedan,True,4-6,385000000,23/09/2019,True
+kia,k250,kia k250,2019,True,False,hatchback,False,3,387000000,17/09/2019,True
+ford,ranger,wildtrak bi-turbo,2019,True,True,pickup,False,4-6,855000000,12/09/2019,False
+toyota,vios,số tự động,2020,True,True,sedan,True,4-6,520000000,11/09/2019,True
+toyota,wigo,số sàn,2019,True,False,hatchback,True,4-6,330000000,09/09/2019,False
+toyota,fortuner,2.7v at máy xăng,2019,True,True,suv,True,6-7,1150000000,01/09/2019,False
+hyundai,accent,1.4 số sàn,2020,True,False,sedan,True,4-6,420000000,28/08/2019,True
+hyundai,accent,1.4l số sàn đặc biệt,2020,True,False,sedan,True,4-6,470000000,28/08/2019,True
+toyota,innova,2.0e số sàn,2019,True,False,minivan,True,8-10,731000000,27/08/2019,True
+hyundai,kona,2019,2019,True,True,suv,True,4-6,720000000,26/08/2019,True
+mazda,cx_8,new,2020,True,True,suv,True,6-7,1069000000,20/08/2019,True
+thaco,aumark,m4 600,2019,True,False,pickup,False,3,539000000,20/08/2019,True
+hyundai,santa_fe,2.4 máy xăng,2019,True,True,suv,True,6-7,995000000,20/08/2019,True
+toyota,alphard,excutive lounge,2019,True,True,minivan,True,6-7,4500000000,16/08/2019,False
+mitsubishi,canter_4_99,fuso canter 4.99,2020,True,False,wagon,False,3,597000000,15/08/2019,True
+mercedes benz,c200,200,2018,False,True,sedan,True,4-6,1450000000,06/08/2019,True
+toyota,innova,innova venturer,2020,True,True,minivan,True,8-10,819000000,05/08/2019,True
+toyota,innova,innova 2.0e mt,2020,True,False,suv,True,8-10,706000000,05/08/2019,True
+toyota,vios,1.5e mt (số sàn),2020,True,False,sedan,True,4-6,470000000,05/08/2019,True
+toyota,fortuner,2.4g (4x2) mt,2019,True,False,suv,False,6-7,953000000,08/07/2019,True
+mazda,2,mazda 2 1.5l 2018,2020,True,True,sedan,True,4-6,589000000,04/07/2019,False
+hyundai,elantra,1.6 số sàn,2020,True,True,sedan,True,4-6,560000000,03/07/2019,True
+mazda,cx_5,2.5 awd,2018,True,True,suv,True,4-6,819000000,28/06/2019,True
+mitsubishi,fuso,xe tải nhỏ,2019,True,False,pickup,False,3,597000000,21/06/2019,False
+ford,everest,titanium,2020,True,True,suv,False,6-7,1127000000,07/06/2019,False
+mitsubishi,xpander,mt,2019,True,False,convertible,True,6-7,550000000,05/06/2019,False
+mitsubishi,xpander,at,2019,True,True,convertible,True,6-7,620000000,05/06/2019,False
+mitsubishi,outlander,2.0 cvt,2019,True,True,suv,True,6-7,807500000,05/06/2019,True
+kia,k3,1.6,2019,True,False,sedan,True,4-6,559000000,04/06/2019,True
+thaco,ollin,"euro 4, 2018",2018,True,False,pickup,False,3,364000000,28/05/2019,True
+hyundai,elantra,1.6 at,2020,True,True,sedan,True,4-6,617000000,27/05/2019,True
+hyundai,i10,1.2 at,2020,True,True,hatchback,True,4-6,390000000,22/05/2019,True
+ford,transit,2.4 luxury combo,2019,True,False,wagon,False,16,826000000,20/05/2019,True
+mercedes benz,s450,5 sao,2020,True,True,sedan,True,4-6,3729000000,19/05/2019,True
+thaco,town,thaco garden tb79s,2020,True,False,van,False,24-29,1610000000,14/05/2019,True
+ford,everest,7 chổ,2020,True,True,suv,False,6-7,965000000,12/05/2019,False
+thaco,town,thaco bluesky,2020,True,False,van,False,29+,2480000000,07/05/2019,True
+thaco,town,thaco bluesky 120s,2020,True,False,van,False,29+,2970000000,07/05/2019,True
+thaco,town,thaco bluesky 120s,2020,True,False,van,False,29+,2480000000,02/05/2019,True
+ford,everest,7 chổ,2020,True,False,suv,False,6-7,912000000,29/04/2019,False
+ford,ranger-wildtrack,wildtrak,2020,True,True,offroad,False,4-6,830000000,22/04/2019,False
+ford,ecosport,5 chổ,2020,True,True,pickup,True,4-6,510000000,28/03/2019,True
+mazda,6,mazda 6 2.0l base,2020,True,True,sedan,True,4-6,819000000,25/03/2019,True
+mercedes benz,glc250,glc 200 4matic,2018,True,True,suv,True,4-6,2039000000,13/03/2019,True
+mercedes benz,c200,2019,2020,True,True,sedan,True,4-6,1499000000,13/03/2019,True
+mercedes benz,c300,amg 2019,2020,True,True,sedan,True,4-6,1929000000,13/03/2019,True
+mercedes benz,c200,2019,2018,True,True,sedan,True,4-6,1709000000,13/03/2019,True
+mercedes benz,glc300,glc 200 facelift 202,2020,True,True,suv,True,4-6,1749000000,12/03/2019,True
+mercedes benz,glc250,glc 200 4matic 2020,2020,True,True,suv,True,4-6,2039000000,12/03/2019,True
+mercedes benz,c200,2019,2018,True,True,sedan,True,4-6,1499000000,12/03/2019,True
+hyundai,kona,1.6 turbo,2020,True,True,suv,True,4-6,715000000,12/03/2019,True
+thaco,ollin,thaco ollin 350.e4,2020,True,False,pickup,False,3,364000000,01/03/2019,True
+mazda,3,facelift,2020,True,True,hatchback,True,4-6,659000000,25/02/2019,True
+ford,ranger,at,2019,True,True,pickup,False,4-6,597000000,07/01/2019,True
+ford,ranger,at,2019,True,True,pickup,False,4-6,570000000,07/01/2019,True
+mercedes benz,glc300,glc 200 2020,2020,True,True,suv,True,4-6,1749000000,07/01/2019,True
+mercedes benz,glc250,glc 200 4matic,2020,True,True,suv,True,4-6,2039000000,07/01/2019,True
+toyota,fortuner,fortuner k 2.4 at,2020,True,True,suv,False,6-7,1011000000,11/12/2018,True
+ford,everest,2.0 titanium,2019,True,True,suv,False,6-7,1147000000,19/11/2018,False
+ford,explorer,2.3 ecoboost,2019,True,True,suv,True,6-7,2268000000,19/11/2018,False
+mercedes benz,c300,2020,2020,True,True,sedan,True,4-6,1949000000,05/11/2018,True
+mercedes benz,e300,2020,2020,True,True,sedan,True,4-6,2769000000,05/11/2018,False
+mercedes benz,cla45,s 450 luxury,2018,True,True,sedan,True,4-6,4969000000,05/11/2018,True
+mercedes benz,e200,c 200 exclusive,2020,True,True,sedan,True,4-6,1729000000,31/10/2018,True
+mercedes benz,c250,c 300 amg,2018,True,True,sedan,True,4-6,1929000000,03/10/2018,True
+ford,ranger,xls,2020,True,True,pickup,False,4-6,618000000,14/09/2018,False
+ford,everest,2.0 at,2019,True,True,suv,False,6-7,902000000,04/09/2018,False
+ford,everest,2.0 at,2020,True,True,suv,False,6-7,899000000,04/09/2018,False
+mercedes benz,c200,c200,2020,True,True,suv,True,4-6,1489000000,04/09/2018,True
+ford,ranger,wildtrak 2.0 at,2020,True,True,pickup,False,4-6,819000000,04/09/2018,False
+toyota,vios,vios e,2020,True,False,sedan,True,4-6,470000000,04/09/2018,True
+mazda,6,2.0 premium,2019,True,True,sedan,True,4-6,899000000,27/08/2018,True
+toyota,cruiser,land cruiser 4.6 at,2020,True,True,suv,True,6-7,4030000000,19/08/2018,False
+mercedes benz,s450,s 450 l,2018,True,False,sedan,True,4-6,4249000000,06/08/2018,True
+mercedes benz,glc300,2020,2020,True,True,sedan,True,4-6,2899000000,26/06/2017,False
+mercedes benz,gle400_coupe,2020,2020,True,True,coupe,True,4-6,4469000000,24/06/2017,True
+mercedes benz,gle400_coupe,2020,2020,True,True,suv,True,4-6,3999000000,24/06/2017,True
+mercedes benz,s400,2020,2020,True,True,sedan,True,4-6,6899000000,14/03/2017,True
+mercedes benz,gla250,2020,2020,True,True,suv,True,4-6,1599000000,29/12/2016,True
+mercedes benz,gla200,2020,2020,True,True,sedan,True,4-6,1260000000,29/12/2016,True
+mercedes benz,s400,2020,2020,True,True,sedan,True,4-6,3999000000,28/12/2016,True
+vinfast,lux-a-2-0,cao cấp,2020,True,True,sedan,True,4-6,1367000000,19/03/2020,True
